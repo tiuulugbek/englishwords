@@ -1,83 +1,5162 @@
 [
   {
     "id": 1,
-    "category": "work",
-    "english": "schedule",
-    "uzbek": "jadval",
-    "example_en": "I will send you the schedule.",
-    "example_uz": "Men sizga jadvalni yuboraman."
+    "category": "ielts",
+    "english": "Aquatic",
+    "uzbek": "suvga oid; suvda yashaydigan; suv",
+    "example_en": "This word is often used in IELTS: Aquatic.",
+    "example_uz": "Bu so'z \"suvga oid; suvda yashaydigan; suv\" degani."
   },
   {
     "id": 2,
-    "category": "family",
-    "english": "mother",
-    "uzbek": "ona",
-    "example_en": "My mother lives in Tashkent.",
-    "example_uz": "Onam Toshkentda yashaydi."
+    "category": "ielts",
+    "english": "Array",
+    "uzbek": "to'plam; dasta",
+    "example_en": "This word is often used in IELTS: Array.",
+    "example_uz": "Bu so'z \"to'plam; dasta\" degani."
   },
   {
     "id": 3,
-    "category": "family",
-    "english": "father",
-    "uzbek": "ota",
-    "example_en": "My father is a doctor.",
-    "example_uz": "Otam shifokor."
+    "category": "ielts",
+    "english": "Defence",
+    "uzbek": "himoya",
+    "example_en": "This word is often used in IELTS: Defence.",
+    "example_uz": "Bu so'z \"himoya\" degani."
   },
   {
     "id": 4,
-    "category": "work",
-    "english": "meeting",
-    "uzbek": "yig'ilish",
-    "example_en": "We have a meeting at 3 PM.",
-    "example_uz": "Bizda soat 15:00 da yig'ilish bor."
+    "category": "ielts",
+    "english": "Deforestation",
+    "uzbek": "o'rmonlarni yo'q qilish",
+    "example_en": "This word is often used in IELTS: Deforestation.",
+    "example_uz": "Bu so'z \"o'rmonlarni yo'q qilish\" degani."
   },
   {
     "id": 5,
-    "category": "food",
-    "english": "bread",
-    "uzbek": "non",
-    "example_en": "Please buy some bread.",
-    "example_uz": "Iltimos, non sotib oling."
+    "category": "ielts",
+    "english": "Environment",
+    "uzbek": "atrof muhit",
+    "example_en": "This word is often used in IELTS: Environment.",
+    "example_uz": "Bu so'z \"atrof muhit\" degani."
   },
   {
     "id": 6,
-    "category": "food",
-    "english": "water",
-    "uzbek": "suv",
-    "example_en": "Can I have a glass of water?",
-    "example_uz": "Bir stakan suv olishim mumkinmi?"
+    "category": "ielts",
+    "english": "Erosion",
+    "uzbek": "yemirilish",
+    "example_en": "This word is often used in IELTS: Erosion.",
+    "example_uz": "Bu so'z \"yemirilish\" degani."
   },
   {
     "id": 7,
-    "category": "work",
-    "english": "project",
-    "uzbek": "loyiha",
-    "example_en": "This project is very important.",
-    "example_uz": "Bu loyiha juda muhim."
+    "category": "ielts",
+    "english": "Extend",
+    "uzbek": "kengaytirmoq",
+    "example_en": "This word is often used in IELTS: Extend.",
+    "example_uz": "Bu so'z \"kengaytirmoq\" degani."
   },
   {
     "id": 8,
-    "category": "family",
-    "english": "sister",
-    "uzbek": "opa",
-    "example_en": "My sister works in a bank.",
-    "example_uz": "Opam bankda ishlaydi."
+    "category": "ielts",
+    "english": "Habitat",
+    "uzbek": "kelib chiqish joyi (o'simlik)",
+    "example_en": "This word is often used in IELTS: Habitat.",
+    "example_uz": "Bu so'z \"kelib chiqish joyi (o'simlik)\" degani."
   },
   {
     "id": 9,
-    "category": "time",
-    "english": "morning",
-    "uzbek": "ertalab",
-    "example_en": "Good morning!",
-    "example_uz": "Xayrli tong!"
+    "category": "ielts",
+    "english": "Impact",
+    "uzbek": "ta'sir",
+    "example_en": "This word is often used in IELTS: Impact.",
+    "example_uz": "Bu so'z \"ta'sir\" degani."
   },
   {
     "id": 10,
-    "category": "time",
-    "english": "evening",
-    "uzbek": "kechqurun",
-    "example_en": "See you this evening.",
-    "example_uz": "Kechqurun ko'rishamiz."
+    "category": "ielts",
+    "english": "Inhibit",
+    "uzbek": "to'sqinlik qilmoq",
+    "example_en": "This word is often used in IELTS: Inhibit.",
+    "example_uz": "Bu so'z \"to'sqinlik qilmoq\" degani."
+  },
+  {
+    "id": 11,
+    "category": "ielts",
+    "english": "Intercept",
+    "uzbek": "g'ov bo'lmoq",
+    "example_en": "This word is often used in IELTS: Intercept.",
+    "example_uz": "Bu so'z \"g'ov bo'lmoq\" degani."
+  },
+  {
+    "id": 12,
+    "category": "ielts",
+    "english": "Logging",
+    "uzbek": "o'rmon kesish",
+    "example_en": "This word is often used in IELTS: Logging.",
+    "example_uz": "Bu so'z \"o'rmon kesish\" degani."
+  },
+  {
+    "id": 13,
+    "category": "ielts",
+    "english": "Myriad",
+    "uzbek": "turli; har xil; ko'plab",
+    "example_en": "This word is often used in IELTS: Myriad.",
+    "example_uz": "Bu so'z \"turli; har xil; ko'plab\" degani."
+  },
+  {
+    "id": 14,
+    "category": "ielts",
+    "english": "Nutrient",
+    "uzbek": "ovqat bo'ladigan moddalar",
+    "example_en": "This word is often used in IELTS: Nutrient.",
+    "example_uz": "Bu so'z \"ovqat bo'ladigan moddalar\" degani."
+  },
+  {
+    "id": 15,
+    "category": "ielts",
+    "english": "Pollution",
+    "uzbek": "ifloslanish",
+    "example_en": "This word is often used in IELTS: Pollution.",
+    "example_uz": "Bu so'z \"ifloslanish\" degani."
+  },
+  {
+    "id": 16,
+    "category": "ielts",
+    "english": "Stabilise",
+    "uzbek": "barqarorlashtirmoq",
+    "example_en": "This word is often used in IELTS: Stabilise.",
+    "example_uz": "Bu so'z \"barqarorlashtirmoq\" degani."
+  },
+  {
+    "id": 17,
+    "category": "ielts",
+    "english": "Terrestrial",
+    "uzbek": "yerga oid; dunyoviy",
+    "example_en": "This word is often used in IELTS: Terrestrial.",
+    "example_uz": "Bu so'z \"yerga oid; dunyoviy\" degani."
+  },
+  {
+    "id": 18,
+    "category": "ielts",
+    "english": "Vanish",
+    "uzbek": "yo'q bo'lib ketmoq; g'oyib bo'lmoq",
+    "example_en": "This word is often used in IELTS: Vanish.",
+    "example_uz": "Bu so'z \"yo'q bo'lib ketmoq; g'oyib bo'lmoq\" degani."
+  },
+  {
+    "id": 19,
+    "category": "ielts",
+    "english": "Vegetation",
+    "uzbek": "o'simlik (dunyosi)",
+    "example_en": "This word is often used in IELTS: Vegetation.",
+    "example_uz": "Bu so'z \"o'simlik (dunyosi)\" degani."
+  },
+  {
+    "id": 20,
+    "category": "ielts",
+    "english": "Aspect",
+    "uzbek": "jihat; tomon; qirra",
+    "example_en": "This word is often used in IELTS: Aspect.",
+    "example_uz": "Bu so'z \"jihat; tomon; qirra\" degani."
+  },
+  {
+    "id": 21,
+    "category": "ielts",
+    "english": "Breed",
+    "uzbek": "nasl; zot",
+    "example_en": "This word is often used in IELTS: Breed.",
+    "example_uz": "Bu so'z \"nasl; zot\" degani."
+  },
+  {
+    "id": 22,
+    "category": "ielts",
+    "english": "Diurnal",
+    "uzbek": "kunduzgi; kundalik",
+    "example_en": "This word is often used in IELTS: Diurnal.",
+    "example_uz": "Bu so'z \"kunduzgi; kundalik\" degani."
+  },
+  {
+    "id": 23,
+    "category": "ielts",
+    "english": "Endure",
+    "uzbek": "chidamoq; sabr qilmoq",
+    "example_en": "This word is often used in IELTS: Endure.",
+    "example_uz": "Bu so'z \"chidamoq; sabr qilmoq\" degani."
+  },
+  {
+    "id": 24,
+    "category": "ielts",
+    "english": "Evolve",
+    "uzbek": "rivojlanmoq",
+    "example_en": "This word is often used in IELTS: Evolve.",
+    "example_uz": "Bu so'z \"rivojlanmoq\" degani."
+  },
+  {
+    "id": 25,
+    "category": "ielts",
+    "english": "Fascinate",
+    "uzbek": "maftun qilmoq",
+    "example_en": "This word is often used in IELTS: Fascinate.",
+    "example_uz": "Bu so'z \"maftun qilmoq\" degani."
+  },
+  {
+    "id": 26,
+    "category": "ielts",
+    "english": "Feat",
+    "uzbek": "mahorat; chaqqonlik",
+    "example_en": "This word is often used in IELTS: Feat.",
+    "example_uz": "Bu so'z \"mahorat; chaqqonlik\" degani."
+  },
+  {
+    "id": 27,
+    "category": "ielts",
+    "english": "Fuel",
+    "uzbek": "yonilg'i",
+    "example_en": "This word is often used in IELTS: Fuel.",
+    "example_uz": "Bu so'z \"yonilg'i\" degani."
+  },
+  {
+    "id": 28,
+    "category": "ielts",
+    "english": "Hemisphere",
+    "uzbek": "yarimshar (yer shari)",
+    "example_en": "This word is often used in IELTS: Hemisphere.",
+    "example_uz": "Bu so'z \"yarimshar (yer shari)\" degani."
+  },
+  {
+    "id": 29,
+    "category": "ielts",
+    "english": "Imperative",
+    "uzbek": "qat'iy; keskin",
+    "example_en": "This word is often used in IELTS: Imperative.",
+    "example_uz": "Bu so'z \"qat'iy; keskin\" degani."
+  },
+  {
+    "id": 30,
+    "category": "ielts",
+    "english": "Inhabit",
+    "uzbek": "yashamoq",
+    "example_en": "This word is often used in IELTS: Inhabit.",
+    "example_uz": "Bu so'z \"yashamoq\" degani."
+  },
+  {
+    "id": 31,
+    "category": "ielts",
+    "english": "Migration",
+    "uzbek": "migratsiya",
+    "example_en": "This word is often used in IELTS: Migration.",
+    "example_uz": "Bu so'z \"migratsiya\" degani."
+  },
+  {
+    "id": 32,
+    "category": "ielts",
+    "english": "Navigation",
+    "uzbek": "yo'lni aniqlash",
+    "example_en": "This word is often used in IELTS: Navigation.",
+    "example_uz": "Bu so'z \"yo'lni aniqlash\" degani."
+  },
+  {
+    "id": 33,
+    "category": "ielts",
+    "english": "Nocturnal",
+    "uzbek": "kechqurungi; uxlamaydigan",
+    "example_en": "This word is often used in IELTS: Nocturnal.",
+    "example_uz": "Bu so'z \"kechqurungi; uxlamaydigan\" degani."
+  },
+  {
+    "id": 34,
+    "category": "ielts",
+    "english": "Observer",
+    "uzbek": "kuzatuvchi; nazoratchi",
+    "example_en": "This word is often used in IELTS: Observer.",
+    "example_uz": "Bu so'z \"kuzatuvchi; nazoratchi\" degani."
+  },
+  {
+    "id": 35,
+    "category": "ielts",
+    "english": "Obscure",
+    "uzbek": "noaniq; tushunarsiz",
+    "example_en": "This word is often used in IELTS: Obscure.",
+    "example_uz": "Bu so'z \"noaniq; tushunarsiz\" degani."
+  },
+  {
+    "id": 36,
+    "category": "ielts",
+    "english": "Optimal",
+    "uzbek": "maqbul",
+    "example_en": "This word is often used in IELTS: Optimal.",
+    "example_uz": "Bu so'z \"maqbul\" degani."
+  },
+  {
+    "id": 37,
+    "category": "ielts",
+    "english": "Species",
+    "uzbek": "tur; nav; xil",
+    "example_en": "This word is often used in IELTS: Species.",
+    "example_uz": "Bu so'z \"tur; nav; xil\" degani."
+  },
+  {
+    "id": 38,
+    "category": "ielts",
+    "english": "Stray",
+    "uzbek": "adashmoq; uyjoysiz",
+    "example_en": "This word is often used in IELTS: Stray.",
+    "example_uz": "Bu so'z \"adashmoq; uyjoysiz\" degani."
+  },
+  {
+    "id": 39,
+    "category": "ielts",
+    "english": "Windswept",
+    "uzbek": "shamoldan himoya qilinmagan",
+    "example_en": "This word is often used in IELTS: Windswept.",
+    "example_uz": "Bu so'z \"shamoldan himoya qilinmagan\" degani."
+  },
+  {
+    "id": 40,
+    "category": "ielts",
+    "english": "Accumulate",
+    "uzbek": "to'plamoq; jamlamoq",
+    "example_en": "This word is often used in IELTS: Accumulate.",
+    "example_uz": "Bu so'z \"to'plamoq; jamlamoq\" degani."
+  },
+  {
+    "id": 41,
+    "category": "ielts",
+    "english": "Adapt",
+    "uzbek": "moslashmoq; moslashtirmoq",
+    "example_en": "This word is often used in IELTS: Adapt.",
+    "example_uz": "Bu so'z \"moslashmoq; moslashtirmoq\" degani."
+  },
+  {
+    "id": 42,
+    "category": "ielts",
+    "english": "Determine",
+    "uzbek": "aniqlamoq; belgilamoq",
+    "example_en": "This word is often used in IELTS: Determine.",
+    "example_uz": "Bu so'z \"aniqlamoq; belgilamoq\" degani."
+  },
+  {
+    "id": 43,
+    "category": "ielts",
+    "english": "Dilute",
+    "uzbek": "suyultirmoq; aralashtirmoq",
+    "example_en": "This word is often used in IELTS: Dilute.",
+    "example_uz": "Bu so'z \"suyultirmoq; aralashtirmoq\" degani."
+  },
+  {
+    "id": 44,
+    "category": "ielts",
+    "english": "Diverse",
+    "uzbek": "turli; har xil",
+    "example_en": "This word is often used in IELTS: Diverse.",
+    "example_uz": "Bu so'z \"turli; har xil\" degani."
+  },
+  {
+    "id": 45,
+    "category": "ielts",
+    "english": "Evaporation",
+    "uzbek": "parlanish",
+    "example_en": "This word is often used in IELTS: Evaporation.",
+    "example_uz": "Bu so'z \"parlanish\" degani."
+  },
+  {
+    "id": 46,
+    "category": "ielts",
+    "english": "Extreme",
+    "uzbek": "keskin; ashaddiy",
+    "example_en": "This word is often used in IELTS: Extreme.",
+    "example_uz": "Bu so'z \"keskin; ashaddiy\" degani."
+  },
+  {
+    "id": 47,
+    "category": "ielts",
+    "english": "Fringe",
+    "uzbek": "chekka; chegaraviy",
+    "example_en": "This word is often used in IELTS: Fringe.",
+    "example_uz": "Bu so'z \"chekka; chegaraviy\" degani."
+  },
+  {
+    "id": 48,
+    "category": "ielts",
+    "english": "Mechanism",
+    "uzbek": "mexanizm; uskuna",
+    "example_en": "This word is often used in IELTS: Mechanism.",
+    "example_uz": "Bu so'z \"mexanizm; uskuna\" degani."
+  },
+  {
+    "id": 49,
+    "category": "ielts",
+    "english": "Minimise",
+    "uzbek": "kichraytirmoq",
+    "example_en": "This word is often used in IELTS: Minimise.",
+    "example_uz": "Bu so'z \"kichraytirmoq\" degani."
+  },
+  {
+    "id": 50,
+    "category": "ielts",
+    "english": "Moisture",
+    "uzbek": "namlik",
+    "example_en": "This word is often used in IELTS: Moisture.",
+    "example_uz": "Bu so'z \"namlik\" degani."
+  },
+  {
+    "id": 51,
+    "category": "ielts",
+    "english": "Occupy",
+    "uzbek": "zabt etmoq; bosib olmoq",
+    "example_en": "This word is often used in IELTS: Occupy.",
+    "example_uz": "Bu so'z \"zabt etmoq; bosib olmoq\" degani."
+  },
+  {
+    "id": 52,
+    "category": "ielts",
+    "english": "Prolific",
+    "uzbek": "sermaxsul; hosildor",
+    "example_en": "This word is often used in IELTS: Prolific.",
+    "example_uz": "Bu so'z \"sermaxsul; hosildor\" degani."
+  },
+  {
+    "id": 53,
+    "category": "ielts",
+    "english": "Resilient",
+    "uzbek": "ruhiyati kuchli; quvnoq",
+    "example_en": "This word is often used in IELTS: Resilient.",
+    "example_uz": "Bu so'z \"ruhiyati kuchli; quvnoq\" degani."
+  },
+  {
+    "id": 54,
+    "category": "ielts",
+    "english": "Sparse",
+    "uzbek": "siyrak",
+    "example_en": "This word is often used in IELTS: Sparse.",
+    "example_uz": "Bu so'z \"siyrak\" degani."
+  },
+  {
+    "id": 55,
+    "category": "ielts",
+    "english": "Stressor",
+    "uzbek": "stress omili",
+    "example_en": "This word is often used in IELTS: Stressor.",
+    "example_uz": "Bu so'z \"stress omili\" degani."
+  },
+  {
+    "id": 56,
+    "category": "ielts",
+    "english": "Swing",
+    "uzbek": "tebranmoq; chayqalmoq",
+    "example_en": "This word is often used in IELTS: Swing.",
+    "example_uz": "Bu so'z \"tebranmoq; chayqalmoq\" degani."
+  },
+  {
+    "id": 57,
+    "category": "ielts",
+    "english": "Thrive",
+    "uzbek": "rivojlanmoq; gullab yashnamoq",
+    "example_en": "This word is often used in IELTS: Thrive.",
+    "example_uz": "Bu so'z \"rivojlanmoq; gullab yashnamoq\" degani."
+  },
+  {
+    "id": 58,
+    "category": "ielts",
+    "english": "Transitional",
+    "uzbek": "o'tish (davri)",
+    "example_en": "This word is often used in IELTS: Transitional.",
+    "example_uz": "Bu so'z \"o'tish (davri)\" degani."
+  },
+  {
+    "id": 59,
+    "category": "ielts",
+    "english": "Violent",
+    "uzbek": "juda kuchli; bebosh",
+    "example_en": "This word is often used in IELTS: Violent.",
+    "example_uz": "Bu so'z \"juda kuchli; bebosh\" degani."
+  },
+  {
+    "id": 60,
+    "category": "ielts",
+    "english": "Anticipate",
+    "uzbek": "umid qilmoq; tezlashtirmoq",
+    "example_en": "This word is often used in IELTS: Anticipate.",
+    "example_uz": "Bu so'z \"umid qilmoq; tezlashtirmoq\" degani."
+  },
+  {
+    "id": 61,
+    "category": "ielts",
+    "english": "Athlete",
+    "uzbek": "atlet; sport tuzilishli kishi",
+    "example_en": "This word is often used in IELTS: Athlete.",
+    "example_uz": "Bu so'z \"atlet; sport tuzilishli kishi\" degani."
+  },
+  {
+    "id": 62,
+    "category": "ielts",
+    "english": "Blur",
+    "uzbek": "xiralashtirmoq",
+    "example_en": "This word is often used in IELTS: Blur.",
+    "example_uz": "Bu so'z \"xiralashtirmoq\" degani."
+  },
+  {
+    "id": 63,
+    "category": "ielts",
+    "english": "Boundary",
+    "uzbek": "chegara",
+    "example_en": "This word is often used in IELTS: Boundary.",
+    "example_uz": "Bu so'z \"chegara\" degani."
+  },
+  {
+    "id": 64,
+    "category": "ielts",
+    "english": "Complicate",
+    "uzbek": "murakkablashtirmoq",
+    "example_en": "This word is often used in IELTS: Complicate.",
+    "example_uz": "Bu so'z \"murakkablashtirmoq\" degani."
+  },
+  {
+    "id": 65,
+    "category": "ielts",
+    "english": "Coordinate",
+    "uzbek": "muvofiqlashtirmoq; uyg'unlashtirmoq",
+    "example_en": "This word is often used in IELTS: Coordinate.",
+    "example_uz": "Bu so'z \"muvofiqlashtirmoq; uyg'unlashtirmoq\" degani."
+  },
+  {
+    "id": 66,
+    "category": "ielts",
+    "english": "Demonstrate",
+    "uzbek": "ko'rsatmoq; isbotlamoq; namoyish qilmoq",
+    "example_en": "This word is often used in IELTS: Demonstrate.",
+    "example_uz": "Bu so'z \"ko'rsatmoq; isbotlamoq; namoyish qilmoq\" degani."
+  },
+  {
+    "id": 67,
+    "category": "ielts",
+    "english": "Detect",
+    "uzbek": "ochmoq; fosh etmoq",
+    "example_en": "This word is often used in IELTS: Detect.",
+    "example_uz": "Bu so'z \"ochmoq; fosh etmoq\" degani."
+  },
+  {
+    "id": 68,
+    "category": "ielts",
+    "english": "Distract",
+    "uzbek": "chalg'itmoq",
+    "example_en": "This word is often used in IELTS: Distract.",
+    "example_uz": "Bu so'z \"chalg'itmoq\" degani."
+  },
+  {
+    "id": 69,
+    "category": "ielts",
+    "english": "Focus",
+    "uzbek": "e'tibor markazi",
+    "example_en": "This word is often used in IELTS: Focus.",
+    "example_uz": "Bu so'z \"e'tibor markazi\" degani."
+  },
+  {
+    "id": 70,
+    "category": "ielts",
+    "english": "Indiscernible",
+    "uzbek": "yaxshi ko'rinmaydigan",
+    "example_en": "This word is often used in IELTS: Indiscernible.",
+    "example_uz": "Bu so'z \"yaxshi ko'rinmaydigan\" degani."
+  },
+  {
+    "id": 71,
+    "category": "ielts",
+    "english": "Indistinct",
+    "uzbek": "noaniq; xira",
+    "example_en": "This word is often used in IELTS: Indistinct.",
+    "example_uz": "Bu so'z \"noaniq; xira\" degani."
+  },
+  {
+    "id": 72,
+    "category": "ielts",
+    "english": "Manoeuvre",
+    "uzbek": "manëvr; hiyla-yurish; qadam",
+    "example_en": "This word is often used in IELTS: Manoeuvre.",
+    "example_uz": "Bu so'z \"manëvr; hiyla-yurish; qadam\" degani."
+  },
+  {
+    "id": 73,
+    "category": "ielts",
+    "english": "Performance",
+    "uzbek": "ijro; bajarish",
+    "example_en": "This word is often used in IELTS: Performance.",
+    "example_uz": "Bu so'z \"ijro; bajarish\" degani."
+  },
+  {
+    "id": 74,
+    "category": "ielts",
+    "english": "Peripheral",
+    "uzbek": "ikkinchi darajali; chekka",
+    "example_en": "This word is often used in IELTS: Peripheral.",
+    "example_uz": "Bu so'z \"ikkinchi darajali; chekka\" degani."
+  },
+  {
+    "id": 75,
+    "category": "ielts",
+    "english": "Range",
+    "uzbek": "qator; zanjir",
+    "example_en": "This word is often used in IELTS: Range.",
+    "example_uz": "Bu so'z \"qator; zanjir\" degani."
+  },
+  {
+    "id": 76,
+    "category": "ielts",
+    "english": "Scan",
+    "uzbek": "o'rganib chiqmoq; ko'z yugurtirib chiqmoq",
+    "example_en": "This word is often used in IELTS: Scan.",
+    "example_uz": "Bu so'z \"o'rganib chiqmoq; ko'z yugurtirib chiqmoq\" degani."
+  },
+  {
+    "id": 77,
+    "category": "ielts",
+    "english": "Tolerate",
+    "uzbek": "yo'l qo'ymoq; bag'rikenglik qilmoq",
+    "example_en": "This word is often used in IELTS: Tolerate.",
+    "example_uz": "Bu so'z \"yo'l qo'ymoq; bag'rikenglik qilmoq\" degani."
+  },
+  {
+    "id": 78,
+    "category": "ielts",
+    "english": "Unconsciously",
+    "uzbek": "bexabar; ongsiz ravishda",
+    "example_en": "This word is often used in IELTS: Unconsciously.",
+    "example_uz": "Bu so'z \"bexabar; ongsiz ravishda\" degani."
+  },
+  {
+    "id": 79,
+    "category": "ielts",
+    "english": "Vision",
+    "uzbek": "ko'rish; tasavvur",
+    "example_en": "This word is often used in IELTS: Vision.",
+    "example_uz": "Bu so'z \"ko'rish; tasavvur\" degani."
+  },
+  {
+    "id": 80,
+    "category": "ielts",
+    "english": "Ancient",
+    "uzbek": "qadimiy",
+    "example_en": "This word is often used in IELTS: Ancient.",
+    "example_uz": "Bu so'z \"qadimiy\" degani."
+  },
+  {
+    "id": 81,
+    "category": "ielts",
+    "english": "Band",
+    "uzbek": "guruh; otryad",
+    "example_en": "This word is often used in IELTS: Band.",
+    "example_uz": "Bu so'z \"guruh; otryad\" degani."
+  },
+  {
+    "id": 82,
+    "category": "ielts",
+    "english": "Century",
+    "uzbek": "asr",
+    "example_en": "This word is often used in IELTS: Century.",
+    "example_uz": "Bu so'z \"asr\" degani."
+  },
+  {
+    "id": 83,
+    "category": "ielts",
+    "english": "Develop",
+    "uzbek": "rivojlanmoq; rivojlantirmoq",
+    "example_en": "This word is often used in IELTS: Develop.",
+    "example_uz": "Bu so'z \"rivojlanmoq; rivojlantirmoq\" degani."
+  },
+  {
+    "id": 84,
+    "category": "ielts",
+    "english": "Entertainment",
+    "uzbek": "ko'ngilxushlik",
+    "example_en": "This word is often used in IELTS: Entertainment.",
+    "example_uz": "Bu so'z \"ko'ngilxushlik\" degani."
+  },
+  {
+    "id": 85,
+    "category": "ielts",
+    "english": "Exhibit",
+    "uzbek": "ko'rsatmoq; namoyish qilmoq",
+    "example_en": "This word is often used in IELTS: Exhibit.",
+    "example_uz": "Bu so'z \"ko'rsatmoq; namoyish qilmoq\" degani."
+  },
+  {
+    "id": 86,
+    "category": "ielts",
+    "english": "Exotic",
+    "uzbek": "ekzotik",
+    "example_en": "This word is often used in IELTS: Exotic.",
+    "example_uz": "Bu so'z \"ekzotik\" degani."
+  },
+  {
+    "id": 87,
+    "category": "ielts",
+    "english": "Found",
+    "uzbek": "asos solmoq",
+    "example_en": "This word is often used in IELTS: Found.",
+    "example_uz": "Bu so'z \"asos solmoq\" degani."
+  },
+  {
+    "id": 88,
+    "category": "ielts",
+    "english": "Grandeur",
+    "uzbek": "ulkanlik; muhimlik",
+    "example_en": "This word is often used in IELTS: Grandeur.",
+    "example_uz": "Bu so'z \"ulkanlik; muhimlik\" degani."
+  },
+  {
+    "id": 89,
+    "category": "ielts",
+    "english": "Massive",
+    "uzbek": "og'ir; katta; ulkan",
+    "example_en": "This word is often used in IELTS: Massive.",
+    "example_uz": "Bu so'z \"og'ir; katta; ulkan\" degani."
+  },
+  {
+    "id": 90,
+    "category": "ielts",
+    "english": "Permanent",
+    "uzbek": "doimiy; abadiy",
+    "example_en": "This word is often used in IELTS: Permanent.",
+    "example_uz": "Bu so'z \"doimiy; abadiy\" degani."
+  },
+  {
+    "id": 91,
+    "category": "ielts",
+    "english": "Popular",
+    "uzbek": "mashhur; sevilgan",
+    "example_en": "This word is often used in IELTS: Popular.",
+    "example_uz": "Bu so'z \"mashhur; sevilgan\" degani."
+  },
+  {
+    "id": 92,
+    "category": "ielts",
+    "english": "Reduce",
+    "uzbek": "kamaytirmoq",
+    "example_en": "This word is often used in IELTS: Reduce.",
+    "example_uz": "Bu so'z \"kamaytirmoq\" degani."
+  },
+  {
+    "id": 93,
+    "category": "ielts",
+    "english": "Remnant",
+    "uzbek": "qoldiq",
+    "example_en": "This word is often used in IELTS: Remnant.",
+    "example_uz": "Bu so'z \"qoldiq\" degani."
+  },
+  {
+    "id": 94,
+    "category": "ielts",
+    "english": "Renovation",
+    "uzbek": "ta'mir; qayta tiklash",
+    "example_en": "This word is often used in IELTS: Renovation.",
+    "example_uz": "Bu so'z \"ta'mir; qayta tiklash\" degani."
+  },
+  {
+    "id": 95,
+    "category": "ielts",
+    "english": "Spectator",
+    "uzbek": "tomoshabin; kuzatuvchi",
+    "example_en": "This word is often used in IELTS: Spectator.",
+    "example_uz": "Bu so'z \"tomoshabin; kuzatuvchi\" degani."
+  },
+  {
+    "id": 96,
+    "category": "ielts",
+    "english": "Survive",
+    "uzbek": "tirik qolmoq; omon qolmoq",
+    "example_en": "This word is often used in IELTS: Survive.",
+    "example_uz": "Bu so'z \"tirik qolmoq; omon qolmoq\" degani."
+  },
+  {
+    "id": 97,
+    "category": "ielts",
+    "english": "Talent",
+    "uzbek": "qobiliyat",
+    "example_en": "This word is often used in IELTS: Talent.",
+    "example_uz": "Bu so'z \"qobiliyat\" degani."
+  },
+  {
+    "id": 98,
+    "category": "ielts",
+    "english": "Trainer",
+    "uzbek": "trener; instruktor",
+    "example_en": "This word is often used in IELTS: Trainer.",
+    "example_uz": "Bu so'z \"trener; instruktor\" degani."
+  },
+  {
+    "id": 99,
+    "category": "ielts",
+    "english": "Venue",
+    "uzbek": "uchrashuv joyi",
+    "example_en": "This word is often used in IELTS: Venue.",
+    "example_uz": "Bu so'z \"uchrashuv joyi\" degani."
+  },
+  {
+    "id": 100,
+    "category": "ielts",
+    "english": "Acknowledge",
+    "uzbek": "tan olmoq",
+    "example_en": "This word is often used in IELTS: Acknowledge.",
+    "example_uz": "Bu so'z \"tan olmoq\" degani."
+  },
+  {
+    "id": 101,
+    "category": "ielts",
+    "english": "Authority",
+    "uzbek": "hokimiyat organlari; hukumat",
+    "example_en": "This word is often used in IELTS: Authority.",
+    "example_uz": "Bu so'z \"hokimiyat organlari; hukumat\" degani."
+  },
+  {
+    "id": 102,
+    "category": "ielts",
+    "english": "Chunk",
+    "uzbek": "katta bo'lak",
+    "example_en": "This word is often used in IELTS: Chunk.",
+    "example_uz": "Bu so'z \"katta bo'lak\" degani."
+  },
+  {
+    "id": 103,
+    "category": "ielts",
+    "english": "Crucial",
+    "uzbek": "muhim; hal qiluvchi",
+    "example_en": "This word is often used in IELTS: Crucial.",
+    "example_uz": "Bu so'z \"muhim; hal qiluvchi\" degani."
+  },
+  {
+    "id": 104,
+    "category": "ielts",
+    "english": "Deliberately",
+    "uzbek": "ataylab; bilib turib",
+    "example_en": "This word is often used in IELTS: Deliberately.",
+    "example_uz": "Bu so'z \"ataylab; bilib turib\" degani."
+  },
+  {
+    "id": 105,
+    "category": "ielts",
+    "english": "Depression",
+    "uzbek": "tushkunlik; sustlik",
+    "example_en": "This word is often used in IELTS: Depression.",
+    "example_uz": "Bu so'z \"tushkunlik; sustlik\" degani."
+  },
+  {
+    "id": 106,
+    "category": "ielts",
+    "english": "Emotion",
+    "uzbek": "hissiyot",
+    "example_en": "This word is often used in IELTS: Emotion.",
+    "example_uz": "Bu so'z \"hissiyot\" degani."
+  },
+  {
+    "id": 107,
+    "category": "ielts",
+    "english": "Engage",
+    "uzbek": "jalb qilmoq",
+    "example_en": "This word is often used in IELTS: Engage.",
+    "example_uz": "Bu so'z \"jalb qilmoq\" degani."
+  },
+  {
+    "id": 108,
+    "category": "ielts",
+    "english": "Industrious",
+    "uzbek": "mehnatsevar",
+    "example_en": "This word is often used in IELTS: Industrious.",
+    "example_uz": "Bu so'z \"mehnatsevar\" degani."
+  },
+  {
+    "id": 109,
+    "category": "ielts",
+    "english": "Intellectual",
+    "uzbek": "aqliy; zukko",
+    "example_en": "This word is often used in IELTS: Intellectual.",
+    "example_uz": "Bu so'z \"aqliy; zukko\" degani."
+  },
+  {
+    "id": 110,
+    "category": "ielts",
+    "english": "Merely",
+    "uzbek": "bor yo'g'i; faqatgina",
+    "example_en": "This word is often used in IELTS: Merely.",
+    "example_uz": "Bu so'z \"bor yo'g'i; faqatgina\" degani."
+  },
+  {
+    "id": 111,
+    "category": "ielts",
+    "english": "Obesity",
+    "uzbek": "juda semizlik",
+    "example_en": "This word is often used in IELTS: Obesity.",
+    "example_uz": "Bu so'z \"juda semizlik\" degani."
+  },
+  {
+    "id": 112,
+    "category": "ielts",
+    "english": "Obvious",
+    "uzbek": "aniq; ravshan",
+    "example_en": "This word is often used in IELTS: Obvious.",
+    "example_uz": "Bu so'z \"aniq; ravshan\" degani."
+  },
+  {
+    "id": 113,
+    "category": "ielts",
+    "english": "Overwhelming",
+    "uzbek": "juda kuchli; juda buyuk",
+    "example_en": "This word is often used in IELTS: Overwhelming.",
+    "example_uz": "Bu so'z \"juda kuchli; juda buyuk\" degani."
+  },
+  {
+    "id": 114,
+    "category": "ielts",
+    "english": "Passive",
+    "uzbek": "majhul; sust",
+    "example_en": "This word is often used in IELTS: Passive.",
+    "example_uz": "Bu so'z \"majhul; sust\" degani."
+  },
+  {
+    "id": 115,
+    "category": "ielts",
+    "english": "Pastime",
+    "uzbek": "ermak; ovunchoq",
+    "example_en": "This word is often used in IELTS: Pastime.",
+    "example_uz": "Bu so'z \"ermak; ovunchoq\" degani."
+  },
+  {
+    "id": 116,
+    "category": "ielts",
+    "english": "Physical",
+    "uzbek": "jismoniy",
+    "example_en": "This word is often used in IELTS: Physical.",
+    "example_uz": "Bu so'z \"jismoniy\" degani."
+  },
+  {
+    "id": 117,
+    "category": "ielts",
+    "english": "Rejuvenate",
+    "uzbek": "yoshartirmoq; yosharmoq",
+    "example_en": "This word is often used in IELTS: Rejuvenate.",
+    "example_uz": "Bu so'z \"yoshartirmoq; yosharmoq\" degani."
+  },
+  {
+    "id": 118,
+    "category": "ielts",
+    "english": "Reluctant",
+    "uzbek": "istar istamas",
+    "example_en": "This word is often used in IELTS: Reluctant.",
+    "example_uz": "Bu so'z \"istar istamas\" degani."
+  },
+  {
+    "id": 119,
+    "category": "ielts",
+    "english": "Suffer",
+    "uzbek": "azob chekmoq",
+    "example_en": "This word is often used in IELTS: Suffer.",
+    "example_uz": "Bu so'z \"azob chekmoq\" degani."
+  },
+  {
+    "id": 120,
+    "category": "ielts",
+    "english": "Cast",
+    "uzbek": "otmoq; rol taqsimoti",
+    "example_en": "This word is often used in IELTS: Cast.",
+    "example_uz": "Bu so'z \"otmoq; rol taqsimoti\" degani."
+  },
+  {
+    "id": 121,
+    "category": "ielts",
+    "english": "Disaster",
+    "uzbek": "ofat; balo; falokat",
+    "example_en": "This word is often used in IELTS: Disaster.",
+    "example_uz": "Bu so'z \"ofat; balo; falokat\" degani."
+  },
+  {
+    "id": 122,
+    "category": "ielts",
+    "english": "Display",
+    "uzbek": "ko'rsatmoq; namoyish qilmoq",
+    "example_en": "This word is often used in IELTS: Display.",
+    "example_uz": "Bu so'z \"ko'rsatmoq; namoyish qilmoq\" degani."
+  },
+  {
+    "id": 123,
+    "category": "ielts",
+    "english": "Drawback",
+    "uzbek": "kamchilik; to'siq",
+    "example_en": "This word is often used in IELTS: Drawback.",
+    "example_uz": "Bu so'z \"kamchilik; to'siq\" degani."
+  },
+  {
+    "id": 124,
+    "category": "ielts",
+    "english": "Efficient",
+    "uzbek": "samarali",
+    "example_en": "This word is often used in IELTS: Efficient.",
+    "example_uz": "Bu so'z \"samarali\" degani."
+  },
+  {
+    "id": 125,
+    "category": "ielts",
+    "english": "Equip",
+    "uzbek": "jihozlamoq",
+    "example_en": "This word is often used in IELTS: Equip.",
+    "example_uz": "Bu so'z \"jihozlamoq\" degani."
+  },
+  {
+    "id": 126,
+    "category": "ielts",
+    "english": "Freight",
+    "uzbek": "yuk tashish",
+    "example_en": "This word is often used in IELTS: Freight.",
+    "example_uz": "Bu so'z \"yuk tashish\" degani."
+  },
+  {
+    "id": 127,
+    "category": "ielts",
+    "english": "Generate",
+    "uzbek": "ishlab chiqarmoq",
+    "example_en": "This word is often used in IELTS: Generate.",
+    "example_uz": "Bu so'z \"ishlab chiqarmoq\" degani."
+  },
+  {
+    "id": 128,
+    "category": "ielts",
+    "english": "Illuminator",
+    "uzbek": "yoritgich; chiroq",
+    "example_en": "This word is often used in IELTS: Illuminator.",
+    "example_uz": "Bu so'z \"yoritgich; chiroq\" degani."
+  },
+  {
+    "id": 129,
+    "category": "ielts",
+    "english": "Innovation",
+    "uzbek": "yangilik; innovatsiya",
+    "example_en": "This word is often used in IELTS: Innovation.",
+    "example_uz": "Bu so'z \"yangilik; innovatsiya\" degani."
+  },
+  {
+    "id": 130,
+    "category": "ielts",
+    "english": "Intense",
+    "uzbek": "jiddiy; kuchli",
+    "example_en": "This word is often used in IELTS: Intense.",
+    "example_uz": "Bu so'z \"jiddiy; kuchli\" degani."
+  },
+  {
+    "id": 131,
+    "category": "ielts",
+    "english": "Knot",
+    "uzbek": "tugun",
+    "example_en": "This word is often used in IELTS: Knot.",
+    "example_uz": "Bu so'z \"tugun\" degani."
+  },
+  {
+    "id": 132,
+    "category": "ielts",
+    "english": "Locomotive",
+    "uzbek": "lokomotiv; siljitadigan",
+    "example_en": "This word is often used in IELTS: Locomotive.",
+    "example_uz": "Bu so'z \"lokomotiv; siljitadigan\" degani."
+  },
+  {
+    "id": 133,
+    "category": "ielts",
+    "english": "Mode",
+    "uzbek": "tur; xil; usul",
+    "example_en": "This word is often used in IELTS: Mode.",
+    "example_uz": "Bu so'z \"tur; xil; usul\" degani."
+  },
+  {
+    "id": 134,
+    "category": "ielts",
+    "english": "Portable",
+    "uzbek": "ko'tarib yurishga qulay",
+    "example_en": "This word is often used in IELTS: Portable.",
+    "example_uz": "Bu so'z \"ko'tarib yurishga qulay\" degani."
+  },
+  {
+    "id": 135,
+    "category": "ielts",
+    "english": "Reflector",
+    "uzbek": "aks ettiruvchi narsa",
+    "example_en": "This word is often used in IELTS: Reflector.",
+    "example_uz": "Bu so'z \"aks ettiruvchi narsa\" degani."
+  },
+  {
+    "id": 136,
+    "category": "ielts",
+    "english": "Rugged",
+    "uzbek": "dag'al; baquvvat",
+    "example_en": "This word is often used in IELTS: Rugged.",
+    "example_uz": "Bu so'z \"dag'al; baquvvat\" degani."
+  },
+  {
+    "id": 137,
+    "category": "ielts",
+    "english": "Stringent",
+    "uzbek": "aniq; qat'iy",
+    "example_en": "This word is often used in IELTS: Stringent.",
+    "example_uz": "Bu so'z \"aniq; qat'iy\" degani."
+  },
+  {
+    "id": 138,
+    "category": "ielts",
+    "english": "Tricky",
+    "uzbek": "ayyor; makkorona",
+    "example_en": "This word is often used in IELTS: Tricky.",
+    "example_uz": "Bu so'z \"ayyor; makkorona\" degani."
+  },
+  {
+    "id": 139,
+    "category": "ielts",
+    "english": "Vulnerable",
+    "uzbek": "zaif; himoyasiz",
+    "example_en": "This word is often used in IELTS: Vulnerable.",
+    "example_uz": "Bu so'z \"zaif; himoyasiz\" degani."
+  },
+  {
+    "id": 140,
+    "category": "ielts",
+    "english": "Architecture",
+    "uzbek": "arxitektura",
+    "example_en": "This word is often used in IELTS: Architecture.",
+    "example_uz": "Bu so'z \"arxitektura\" degani."
+  },
+  {
+    "id": 141,
+    "category": "ielts",
+    "english": "Centrepiece",
+    "uzbek": "markaziy narsa; asosiy narsa",
+    "example_en": "This word is often used in IELTS: Centrepiece.",
+    "example_uz": "Bu so'z \"markaziy narsa; asosiy narsa\" degani."
+  },
+  {
+    "id": 142,
+    "category": "ielts",
+    "english": "Clog",
+    "uzbek": "g'ov bo'lmoq; to'smoq",
+    "example_en": "This word is often used in IELTS: Clog.",
+    "example_uz": "Bu so'z \"g'ov bo'lmoq; to'smoq\" degani."
+  },
+  {
+    "id": 143,
+    "category": "ielts",
+    "english": "Decorate",
+    "uzbek": "bezatmoq",
+    "example_en": "This word is often used in IELTS: Decorate.",
+    "example_uz": "Bu so'z \"bezatmoq\" degani."
+  },
+  {
+    "id": 144,
+    "category": "ielts",
+    "english": "Destruction",
+    "uzbek": "vayronagarchilik",
+    "example_en": "This word is often used in IELTS: Destruction.",
+    "example_uz": "Bu so'z \"vayronagarchilik\" degani."
+  },
+  {
+    "id": 145,
+    "category": "ielts",
+    "english": "Disruptive",
+    "uzbek": "vayronakor",
+    "example_en": "This word is often used in IELTS: Disruptive.",
+    "example_uz": "Bu so'z \"vayronakor\" degani."
+  },
+  {
+    "id": 146,
+    "category": "ielts",
+    "english": "Expand",
+    "uzbek": "kengaymoq",
+    "example_en": "This word is often used in IELTS: Expand.",
+    "example_uz": "Bu so'z \"kengaymoq\" degani."
+  },
+  {
+    "id": 147,
+    "category": "ielts",
+    "english": "Headquarters",
+    "uzbek": "bosh ofis; shtab-kvartira",
+    "example_en": "This word is often used in IELTS: Headquarters.",
+    "example_uz": "Bu so'z \"bosh ofis; shtab-kvartira\" degani."
+  },
+  {
+    "id": 148,
+    "category": "ielts",
+    "english": "Intrinsic",
+    "uzbek": "ichki; o'ziga xos",
+    "example_en": "This word is often used in IELTS: Intrinsic.",
+    "example_uz": "Bu so'z \"ichki; o'ziga xos\" degani."
+  },
+  {
+    "id": 149,
+    "category": "ielts",
+    "english": "Operation",
+    "uzbek": "harakat; amaliyot",
+    "example_en": "This word is often used in IELTS: Operation.",
+    "example_uz": "Bu so'z \"harakat; amaliyot\" degani."
+  },
+  {
+    "id": 150,
+    "category": "ielts",
+    "english": "Pedestrian",
+    "uzbek": "piyoda; yayov",
+    "example_en": "This word is often used in IELTS: Pedestrian.",
+    "example_uz": "Bu so'z \"piyoda; yayov\" degani."
+  },
+  {
+    "id": 151,
+    "category": "ielts",
+    "english": "Release",
+    "uzbek": "ozod qilmoq; qo'yib yubormoq",
+    "example_en": "This word is often used in IELTS: Release.",
+    "example_uz": "Bu so'z \"ozod qilmoq; qo'yib yubormoq\" degani."
+  },
+  {
+    "id": 152,
+    "category": "ielts",
+    "english": "Rival",
+    "uzbek": "raqib",
+    "example_en": "This word is often used in IELTS: Rival.",
+    "example_uz": "Bu so'z \"raqib\" degani."
+  },
+  {
+    "id": 153,
+    "category": "ielts",
+    "english": "Shield",
+    "uzbek": "qalqon",
+    "example_en": "This word is often used in IELTS: Shield.",
+    "example_uz": "Bu so'z \"qalqon\" degani."
+  },
+  {
+    "id": 154,
+    "category": "ielts",
+    "english": "Showcase",
+    "uzbek": "vitrina",
+    "example_en": "This word is often used in IELTS: Showcase.",
+    "example_uz": "Bu so'z \"vitrina\" degani."
+  },
+  {
+    "id": 155,
+    "category": "ielts",
+    "english": "Spring up",
+    "uzbek": "yuzaga kelmoq; paydo bo'lmoq",
+    "example_en": "This word is often used in IELTS: Spring up.",
+    "example_uz": "Bu so'z \"yuzaga kelmoq; paydo bo'lmoq\" degani."
+  },
+  {
+    "id": 156,
+    "category": "ielts",
+    "english": "Surface",
+    "uzbek": "yuza",
+    "example_en": "This word is often used in IELTS: Surface.",
+    "example_uz": "Bu so'z \"yuza\" degani."
+  },
+  {
+    "id": 157,
+    "category": "ielts",
+    "english": "Underground",
+    "uzbek": "yerosti",
+    "example_en": "This word is often used in IELTS: Underground.",
+    "example_uz": "Bu so'z \"yerosti\" degani."
+  },
+  {
+    "id": 158,
+    "category": "ielts",
+    "english": "Utilise",
+    "uzbek": "ishlatmoq",
+    "example_en": "This word is often used in IELTS: Utilise.",
+    "example_uz": "Bu so'z \"ishlatmoq\" degani."
+  },
+  {
+    "id": 159,
+    "category": "ielts",
+    "english": "Vent",
+    "uzbek": "tuynuk",
+    "example_en": "This word is often used in IELTS: Vent.",
+    "example_uz": "Bu so'z \"tuynuk\" degani."
+  },
+  {
+    "id": 160,
+    "category": "ielts",
+    "english": "Accelerate",
+    "uzbek": "tezlashtirmoq; jadallashtirmoq",
+    "example_en": "This word is often used in IELTS: Accelerate.",
+    "example_uz": "Bu so'z \"tezlashtirmoq; jadallashtirmoq\" degani."
+  },
+  {
+    "id": 161,
+    "category": "ielts",
+    "english": "Appeal",
+    "uzbek": "qiziqtirmoq; jalb qilmoq",
+    "example_en": "This word is often used in IELTS: Appeal.",
+    "example_uz": "Bu so'z \"qiziqtirmoq; jalb qilmoq\" degani."
+  },
+  {
+    "id": 162,
+    "category": "ielts",
+    "english": "Charge",
+    "uzbek": "zarjlamoq; ayblamoq",
+    "example_en": "This word is often used in IELTS: Charge.",
+    "example_uz": "Bu so'z \"zarjlamoq; ayblamoq\" degani."
+  },
+  {
+    "id": 163,
+    "category": "ielts",
+    "english": "Classify",
+    "uzbek": "tasniflamoq",
+    "example_en": "This word is often used in IELTS: Classify.",
+    "example_uz": "Bu so'z \"tasniflamoq\" degani."
+  },
+  {
+    "id": 164,
+    "category": "ielts",
+    "english": "Commuter",
+    "uzbek": "yo'lovchi",
+    "example_en": "This word is often used in IELTS: Commuter.",
+    "example_uz": "Bu so'z \"yo'lovchi\" degani."
+  },
+  {
+    "id": 165,
+    "category": "ielts",
+    "english": "Consume",
+    "uzbek": "sarflamoq; iste'mol qilmoq",
+    "example_en": "This word is often used in IELTS: Consume.",
+    "example_uz": "Bu so'z \"sarflamoq; iste'mol qilmoq\" degani."
+  },
+  {
+    "id": 166,
+    "category": "ielts",
+    "english": "Embrace",
+    "uzbek": "quchoqlamoq; qabul qilmoq",
+    "example_en": "This word is often used in IELTS: Embrace.",
+    "example_uz": "Bu so'z \"quchoqlamoq; qabul qilmoq\" degani."
+  },
+  {
+    "id": 167,
+    "category": "ielts",
+    "english": "Flair",
+    "uzbek": "qobiliyat",
+    "example_en": "This word is often used in IELTS: Flair.",
+    "example_uz": "Bu so'z \"qobiliyat\" degani."
+  },
+  {
+    "id": 168,
+    "category": "ielts",
+    "english": "Fume",
+    "uzbek": "achchiq tutun",
+    "example_en": "This word is often used in IELTS: Fume.",
+    "example_uz": "Bu so'z \"achchiq tutun\" degani."
+  },
+  {
+    "id": 169,
+    "category": "ielts",
+    "english": "Hamper",
+    "uzbek": "qiyinlashtirmoq",
+    "example_en": "This word is often used in IELTS: Hamper.",
+    "example_uz": "Bu so'z \"qiyinlashtirmoq\" degani."
+  },
+  {
+    "id": 170,
+    "category": "ielts",
+    "english": "Incentive",
+    "uzbek": "rag'batlantiruvchi omil",
+    "example_en": "This word is often used in IELTS: Incentive.",
+    "example_uz": "Bu so'z \"rag'batlantiruvchi omil\" degani."
+  },
+  {
+    "id": 171,
+    "category": "ielts",
+    "english": "Markedly",
+    "uzbek": "sezilarli",
+    "example_en": "This word is often used in IELTS: Markedly.",
+    "example_uz": "Bu so'z \"sezilarli\" degani."
+  },
+  {
+    "id": 172,
+    "category": "ielts",
+    "english": "Monetary",
+    "uzbek": "pulga oid; moliyaviy",
+    "example_en": "This word is often used in IELTS: Monetary.",
+    "example_uz": "Bu so'z \"pulga oid; moliyaviy\" degani."
+  },
+  {
+    "id": 173,
+    "category": "ielts",
+    "english": "Plodding",
+    "uzbek": "mehnatkash",
+    "example_en": "This word is often used in IELTS: Plodding.",
+    "example_uz": "Bu so'z \"mehnatkash\" degani."
+  },
+  {
+    "id": 174,
+    "category": "ielts",
+    "english": "Rural",
+    "uzbek": "qishloqqa oid",
+    "example_en": "This word is often used in IELTS: Rural.",
+    "example_uz": "Bu so'z \"qishloqqa oid\" degani."
+  },
+  {
+    "id": 175,
+    "category": "ielts",
+    "english": "Span",
+    "uzbek": "ko'prik qirg'oqlarini bog'lamoq; qamrab olmoq",
+    "example_en": "This word is often used in IELTS: Span.",
+    "example_uz": "Bu so'z \"ko'prik qirg'oqlarini bog'lamoq; qamrab olmoq\" degani."
+  },
+  {
+    "id": 176,
+    "category": "ielts",
+    "english": "Sprawl",
+    "uzbek": "cho'zilmoq; yoyilmoq",
+    "example_en": "This word is often used in IELTS: Sprawl.",
+    "example_uz": "Bu so'z \"cho'zilmoq; yoyilmoq\" degani."
+  },
+  {
+    "id": 177,
+    "category": "ielts",
+    "english": "Standard",
+    "uzbek": "me'yor",
+    "example_en": "This word is often used in IELTS: Standard.",
+    "example_uz": "Bu so'z \"me'yor\" degani."
+  },
+  {
+    "id": 178,
+    "category": "ielts",
+    "english": "Suburban",
+    "uzbek": "shahar chetiga oid",
+    "example_en": "This word is often used in IELTS: Suburban.",
+    "example_uz": "Bu so'z \"shahar chetiga oid\" degani."
+  },
+  {
+    "id": 179,
+    "category": "ielts",
+    "english": "Urban",
+    "uzbek": "shaharga oid",
+    "example_en": "This word is often used in IELTS: Urban.",
+    "example_uz": "Bu so'z \"shaharga oid\" degani."
+  },
+  {
+    "id": 180,
+    "category": "ielts",
+    "english": "Adopt",
+    "uzbek": "otaliqqa olmoq; qabul qilmoq",
+    "example_en": "This word is often used in IELTS: Adopt.",
+    "example_uz": "Bu so'z \"otaliqqa olmoq; qabul qilmoq\" degani."
+  },
+  {
+    "id": 181,
+    "category": "ielts",
+    "english": "Agricultural",
+    "uzbek": "qishloq xo'jaligiga oid",
+    "example_en": "This word is often used in IELTS: Agricultural.",
+    "example_uz": "Bu so'z \"qishloq xo'jaligiga oid\" degani."
+  },
+  {
+    "id": 182,
+    "category": "ielts",
+    "english": "Attribute",
+    "uzbek": "belgi; xususiyat",
+    "example_en": "This word is often used in IELTS: Attribute.",
+    "example_uz": "Bu so'z \"belgi; xususiyat\" degani."
+  },
+  {
+    "id": 183,
+    "category": "ielts",
+    "english": "Carve",
+    "uzbek": "o'ymoq; naqsh solmoq",
+    "example_en": "This word is often used in IELTS: Carve.",
+    "example_uz": "Bu so'z \"o'ymoq; naqsh solmoq\" degani."
+  },
+  {
+    "id": 184,
+    "category": "ielts",
+    "english": "Civilisation",
+    "uzbek": "sivilizatsiya; taraqqiyot",
+    "example_en": "This word is often used in IELTS: Civilisation.",
+    "example_uz": "Bu so'z \"sivilizatsiya; taraqqiyot\" degani."
+  },
+  {
+    "id": 185,
+    "category": "ielts",
+    "english": "Creator",
+    "uzbek": "yaratuvchi",
+    "example_en": "This word is often used in IELTS: Creator.",
+    "example_uz": "Bu so'z \"yaratuvchi\" degani."
+  },
+  {
+    "id": 186,
+    "category": "ielts",
+    "english": "Deed",
+    "uzbek": "qilingan ish; amal",
+    "example_en": "This word is often used in IELTS: Deed.",
+    "example_uz": "Bu so'z \"qilingan ish; amal\" degani."
+  },
+  {
+    "id": 187,
+    "category": "ielts",
+    "english": "Encompass",
+    "uzbek": "qamrab olmoq; ichiga olmoq",
+    "example_en": "This word is often used in IELTS: Encompass.",
+    "example_uz": "Bu so'z \"qamrab olmoq; ichiga olmoq\" degani."
+  },
+  {
+    "id": 188,
+    "category": "ielts",
+    "english": "Excavation",
+    "uzbek": "qazish; chopish",
+    "example_en": "This word is often used in IELTS: Excavation.",
+    "example_uz": "Bu so'z \"qazish; chopish\" degani."
+  },
+  {
+    "id": 189,
+    "category": "ielts",
+    "english": "Function",
+    "uzbek": "vazifa; xizmat",
+    "example_en": "This word is often used in IELTS: Function.",
+    "example_uz": "Bu so'z \"vazifa; xizmat\" degani."
+  },
+  {
+    "id": 190,
+    "category": "ielts",
+    "english": "Inscribe",
+    "uzbek": "o'yib yozmoq",
+    "example_en": "This word is often used in IELTS: Inscribe.",
+    "example_uz": "Bu so'z \"o'yib yozmoq\" degani."
+  },
+  {
+    "id": 191,
+    "category": "ielts",
+    "english": "Literacy",
+    "uzbek": "savodxonlik",
+    "example_en": "This word is often used in IELTS: Literacy.",
+    "example_uz": "Bu so'z \"savodxonlik\" degani."
+  },
+  {
+    "id": 192,
+    "category": "ielts",
+    "english": "Mythology",
+    "uzbek": "mifologiya",
+    "example_en": "This word is often used in IELTS: Mythology.",
+    "example_uz": "Bu so'z \"mifologiya\" degani."
+  },
+  {
+    "id": 193,
+    "category": "ielts",
+    "english": "Property",
+    "uzbek": "mulk; xususiyat",
+    "example_en": "This word is often used in IELTS: Property.",
+    "example_uz": "Bu so'z \"mulk; xususiyat\" degani."
+  },
+  {
+    "id": 194,
+    "category": "ielts",
+    "english": "Scholar",
+    "uzbek": "olim",
+    "example_en": "This word is often used in IELTS: Scholar.",
+    "example_uz": "Bu so'z \"olim\" degani."
+  },
+  {
+    "id": 195,
+    "category": "ielts",
+    "english": "Settle",
+    "uzbek": "tartibga solmoq; joylashtirmoq",
+    "example_en": "This word is often used in IELTS: Settle.",
+    "example_uz": "Bu so'z \"tartibga solmoq; joylashtirmoq\" degani."
+  },
+  {
+    "id": 196,
+    "category": "ielts",
+    "english": "Specialised",
+    "uzbek": "ixtisoslashgan",
+    "example_en": "This word is often used in IELTS: Specialised.",
+    "example_uz": "Bu so'z \"ixtisoslashgan\" degani."
+  },
+  {
+    "id": 197,
+    "category": "ielts",
+    "english": "Structure",
+    "uzbek": "imorat; tuzilma",
+    "example_en": "This word is often used in IELTS: Structure.",
+    "example_uz": "Bu so'z \"imorat; tuzilma\" degani."
+  },
+  {
+    "id": 198,
+    "category": "ielts",
+    "english": "Tablet",
+    "uzbek": "yozuvli taxta",
+    "example_en": "This word is often used in IELTS: Tablet.",
+    "example_uz": "Bu so'z \"yozuvli taxta\" degani."
+  },
+  {
+    "id": 199,
+    "category": "ielts",
+    "english": "Token",
+    "uzbek": "ramz; belgi",
+    "example_en": "This word is often used in IELTS: Token.",
+    "example_uz": "Bu so'z \"ramz; belgi\" degani."
+  },
+  {
+    "id": 200,
+    "category": "ielts",
+    "english": "Accompany",
+    "uzbek": "hamroh bo'lmoq; jo'r bo'lmoq",
+    "example_en": "This word is often used in IELTS: Accompany.",
+    "example_uz": "Bu so'z \"hamroh bo'lmoq; jo'r bo'lmoq\" degani."
+  },
+  {
+    "id": 201,
+    "category": "ielts",
+    "english": "Alter",
+    "uzbek": "o'zgartirmoq",
+    "example_en": "This word is often used in IELTS: Alter.",
+    "example_uz": "Bu so'z \"o'zgartirmoq\" degani."
+  },
+  {
+    "id": 202,
+    "category": "ielts",
+    "english": "Benefit",
+    "uzbek": "foyda",
+    "example_en": "This word is often used in IELTS: Benefit.",
+    "example_uz": "Bu so'z \"foyda\" degani."
+  },
+  {
+    "id": 203,
+    "category": "ielts",
+    "english": "Celebration",
+    "uzbek": "bayram; tantana",
+    "example_en": "This word is often used in IELTS: Celebration.",
+    "example_uz": "Bu so'z \"bayram; tantana\" degani."
+  },
+  {
+    "id": 204,
+    "category": "ielts",
+    "english": "Discourage",
+    "uzbek": "shijoatini so'ndirmoq",
+    "example_en": "This word is often used in IELTS: Discourage.",
+    "example_uz": "Bu so'z \"shijoatini so'ndirmoq\" degani."
+  },
+  {
+    "id": 205,
+    "category": "ielts",
+    "english": "Elaborate",
+    "uzbek": "puxta; mufassal",
+    "example_en": "This word is often used in IELTS: Elaborate.",
+    "example_uz": "Bu so'z \"puxta; mufassal\" degani."
+  },
+  {
+    "id": 206,
+    "category": "ielts",
+    "english": "Energetic",
+    "uzbek": "g'ayratli",
+    "example_en": "This word is often used in IELTS: Energetic.",
+    "example_uz": "Bu so'z \"g'ayratli\" degani."
+  },
+  {
+    "id": 207,
+    "category": "ielts",
+    "english": "Evidence",
+    "uzbek": "dalil",
+    "example_en": "This word is often used in IELTS: Evidence.",
+    "example_uz": "Bu so'z \"dalil\" degani."
+  },
+  {
+    "id": 208,
+    "category": "ielts",
+    "english": "Evoke",
+    "uzbek": "uyg'otmoq; qo'zg'amoq",
+    "example_en": "This word is often used in IELTS: Evoke.",
+    "example_uz": "Bu so'z \"uyg'otmoq; qo'zg'amoq\" degani."
+  },
+  {
+    "id": 209,
+    "category": "ielts",
+    "english": "Floral",
+    "uzbek": "o'simliklarga oid",
+    "example_en": "This word is often used in IELTS: Floral.",
+    "example_uz": "Bu so'z \"o'simliklarga oid\" degani."
+  },
+  {
+    "id": 210,
+    "category": "ielts",
+    "english": "Garland",
+    "uzbek": "gulchambar bilan bezamoq",
+    "example_en": "This word is often used in IELTS: Garland.",
+    "example_uz": "Bu so'z \"gulchambar bilan bezamoq\" degani."
+  },
+  {
+    "id": 211,
+    "category": "ielts",
+    "english": "Graceful",
+    "uzbek": "nafis; jozibali",
+    "example_en": "This word is often used in IELTS: Graceful.",
+    "example_uz": "Bu so'z \"nafis; jozibali\" degani."
+  },
+  {
+    "id": 212,
+    "category": "ielts",
+    "english": "Image",
+    "uzbek": "tasvir; surat",
+    "example_en": "This word is often used in IELTS: Image.",
+    "example_uz": "Bu so'z \"tasvir; surat\" degani."
+  },
+  {
+    "id": 213,
+    "category": "ielts",
+    "english": "Influence",
+    "uzbek": "ta'sir qilmoq",
+    "example_en": "This word is often used in IELTS: Influence.",
+    "example_uz": "Bu so'z \"ta'sir qilmoq\" degani."
+  },
+  {
+    "id": 214,
+    "category": "ielts",
+    "english": "Reign",
+    "uzbek": "hukm surmoq",
+    "example_en": "This word is often used in IELTS: Reign.",
+    "example_uz": "Bu so'z \"hukm surmoq\" degani."
+  },
+  {
+    "id": 215,
+    "category": "ielts",
+    "english": "Revive",
+    "uzbek": "jonlantirmoq",
+    "example_en": "This word is often used in IELTS: Revive.",
+    "example_uz": "Bu so'z \"jonlantirmoq\" degani."
+  },
+  {
+    "id": 216,
+    "category": "ielts",
+    "english": "Ritual",
+    "uzbek": "urf-odat; an'anaviy",
+    "example_en": "This word is often used in IELTS: Ritual.",
+    "example_uz": "Bu so'z \"urf-odat; an'anaviy\" degani."
+  },
+  {
+    "id": 217,
+    "category": "ielts",
+    "english": "Stereotype",
+    "uzbek": "stereotip",
+    "example_en": "This word is often used in IELTS: Stereotype.",
+    "example_uz": "Bu so'z \"stereotip\" degani."
+  },
+  {
+    "id": 218,
+    "category": "ielts",
+    "english": "Sway",
+    "uzbek": "chayqamoq; to'lqinlantirmoq",
+    "example_en": "This word is often used in IELTS: Sway.",
+    "example_uz": "Bu so'z \"chayqamoq; to'lqinlantirmoq\" degani."
+  },
+  {
+    "id": 219,
+    "category": "ielts",
+    "english": "Tradition",
+    "uzbek": "an'ana; urf-odat",
+    "example_en": "This word is often used in IELTS: Tradition.",
+    "example_uz": "Bu so'z \"an'ana; urf-odat\" degani."
+  },
+  {
+    "id": 220,
+    "category": "ielts",
+    "english": "Abstract",
+    "uzbek": "mavhum",
+    "example_en": "This word is often used in IELTS: Abstract.",
+    "example_uz": "Bu so'z \"mavhum\" degani."
+  },
+  {
+    "id": 221,
+    "category": "ielts",
+    "english": "Atmosphere",
+    "uzbek": "atmosfera; muhit",
+    "example_en": "This word is often used in IELTS: Atmosphere.",
+    "example_uz": "Bu so'z \"atmosfera; muhit\" degani."
+  },
+  {
+    "id": 222,
+    "category": "ielts",
+    "english": "Conflict",
+    "uzbek": "mojaro; nizo",
+    "example_en": "This word is often used in IELTS: Conflict.",
+    "example_uz": "Bu so'z \"mojaro; nizo\" degani."
+  },
+  {
+    "id": 223,
+    "category": "ielts",
+    "english": "Considerably",
+    "uzbek": "katta; ko'zga ko'rinarli",
+    "example_en": "This word is often used in IELTS: Considerably.",
+    "example_uz": "Bu so'z \"katta; ko'zga ko'rinarli\" degani."
+  },
+  {
+    "id": 224,
+    "category": "ielts",
+    "english": "Culminate",
+    "uzbek": "yuqori nuqtaga yetmoq",
+    "example_en": "This word is often used in IELTS: Culminate.",
+    "example_uz": "Bu so'z \"yuqori nuqtaga yetmoq\" degani."
+  },
+  {
+    "id": 225,
+    "category": "ielts",
+    "english": "Effectively",
+    "uzbek": "samarali",
+    "example_en": "This word is often used in IELTS: Effectively.",
+    "example_uz": "Bu so'z \"samarali\" degani."
+  },
+  {
+    "id": 226,
+    "category": "ielts",
+    "english": "Emerge",
+    "uzbek": "paydo bo'lmoq",
+    "example_en": "This word is often used in IELTS: Emerge.",
+    "example_uz": "Bu so'z \"paydo bo'lmoq\" degani."
+  },
+  {
+    "id": 227,
+    "category": "ielts",
+    "english": "Exaggerated",
+    "uzbek": "bo'rttirilgan",
+    "example_en": "This word is often used in IELTS: Exaggerated.",
+    "example_uz": "Bu so'z \"bo'rttirilgan\" degani."
+  },
+  {
+    "id": 228,
+    "category": "ielts",
+    "english": "Frailty",
+    "uzbek": "zaiflik; darmonsizlik",
+    "example_en": "This word is often used in IELTS: Frailty.",
+    "example_uz": "Bu so'z \"zaiflik; darmonsizlik\" degani."
+  },
+  {
+    "id": 229,
+    "category": "ielts",
+    "english": "Gesture",
+    "uzbek": "imo ishora",
+    "example_en": "This word is often used in IELTS: Gesture.",
+    "example_uz": "Bu so'z \"imo ishora\" degani."
+  },
+  {
+    "id": 230,
+    "category": "ielts",
+    "english": "Humorous",
+    "uzbek": "hajviy",
+    "example_en": "This word is often used in IELTS: Humorous.",
+    "example_uz": "Bu so'z \"hajviy\" degani."
+  },
+  {
+    "id": 231,
+    "category": "ielts",
+    "english": "Illusion",
+    "uzbek": "sarob; illyuziya",
+    "example_en": "This word is often used in IELTS: Illusion.",
+    "example_uz": "Bu so'z \"sarob; illyuziya\" degani."
+  },
+  {
+    "id": 232,
+    "category": "ielts",
+    "english": "Literal",
+    "uzbek": "so'zma-so'z; aniq",
+    "example_en": "This word is often used in IELTS: Literal.",
+    "example_uz": "Bu so'z \"so'zma-so'z; aniq\" degani."
+  },
+  {
+    "id": 233,
+    "category": "ielts",
+    "english": "Merge",
+    "uzbek": "birlashmoq",
+    "example_en": "This word is often used in IELTS: Merge.",
+    "example_uz": "Bu so'z \"birlashmoq\" degani."
+  },
+  {
+    "id": 234,
+    "category": "ielts",
+    "english": "Portray",
+    "uzbek": "tasvirlamoq",
+    "example_en": "This word is often used in IELTS: Portray.",
+    "example_uz": "Bu so'z \"tasvirlamoq\" degani."
+  },
+  {
+    "id": 235,
+    "category": "ielts",
+    "english": "Prominent",
+    "uzbek": "ko'zga ko'ringan; taniqli",
+    "example_en": "This word is often used in IELTS: Prominent.",
+    "example_uz": "Bu so'z \"ko'zga ko'ringan; taniqli\" degani."
+  },
+  {
+    "id": 236,
+    "category": "ielts",
+    "english": "Prop",
+    "uzbek": "tayanch; suyanchiq",
+    "example_en": "This word is often used in IELTS: Prop.",
+    "example_uz": "Bu so'z \"tayanch; suyanchiq\" degani."
+  },
+  {
+    "id": 237,
+    "category": "ielts",
+    "english": "Reminiscent",
+    "uzbek": "eslatib yuboradigan",
+    "example_en": "This word is often used in IELTS: Reminiscent.",
+    "example_uz": "Bu so'z \"eslatib yuboradigan\" degani."
+  },
+  {
+    "id": 238,
+    "category": "ielts",
+    "english": "Renowned",
+    "uzbek": "mashhur; atoqli",
+    "example_en": "This word is often used in IELTS: Renowned.",
+    "example_uz": "Bu so'z \"mashhur; atoqli\" degani."
+  },
+  {
+    "id": 239,
+    "category": "ielts",
+    "english": "Sharpen",
+    "uzbek": "o'tkirlamoq",
+    "example_en": "This word is often used in IELTS: Sharpen.",
+    "example_uz": "Bu so'z \"o'tkirlamoq\" degani."
+  },
+  {
+    "id": 240,
+    "category": "ielts",
+    "english": "Abroad",
+    "uzbek": "xorijda",
+    "example_en": "This word is often used in IELTS: Abroad.",
+    "example_uz": "Bu so'z \"xorijda\" degani."
+  },
+  {
+    "id": 241,
+    "category": "ielts",
+    "english": "Administer",
+    "uzbek": "boshqarmoq",
+    "example_en": "This word is often used in IELTS: Administer.",
+    "example_uz": "Bu so'z \"boshqarmoq\" degani."
+  },
+  {
+    "id": 242,
+    "category": "ielts",
+    "english": "Bulk",
+    "uzbek": "katta qismi",
+    "example_en": "This word is often used in IELTS: Bulk.",
+    "example_uz": "Bu so'z \"katta qismi\" degani."
+  },
+  {
+    "id": 243,
+    "category": "ielts",
+    "english": "Complex",
+    "uzbek": "murakkab; tarkibli",
+    "example_en": "This word is often used in IELTS: Complex.",
+    "example_uz": "Bu so'z \"murakkab; tarkibli\" degani."
+  },
+  {
+    "id": 244,
+    "category": "ielts",
+    "english": "Cripple",
+    "uzbek": "majruh qilmoq",
+    "example_en": "This word is often used in IELTS: Cripple.",
+    "example_uz": "Bu so'z \"majruh qilmoq\" degani."
+  },
+  {
+    "id": 245,
+    "category": "ielts",
+    "english": "Decade",
+    "uzbek": "o'n yillik",
+    "example_en": "This word is often used in IELTS: Decade.",
+    "example_uz": "Bu so'z \"o'n yillik\" degani."
+  },
+  {
+    "id": 246,
+    "category": "ielts",
+    "english": "Decline",
+    "uzbek": "kamaymoq; tushmoq",
+    "example_en": "This word is often used in IELTS: Decline.",
+    "example_uz": "Bu so'z \"kamaymoq; tushmoq\" degani."
+  },
+  {
+    "id": 247,
+    "category": "ielts",
+    "english": "Epidemic",
+    "uzbek": "epidemik",
+    "example_en": "This word is often used in IELTS: Epidemic.",
+    "example_uz": "Bu so'z \"epidemik\" degani."
+  },
+  {
+    "id": 248,
+    "category": "ielts",
+    "english": "Estimate",
+    "uzbek": "baholamoq",
+    "example_en": "This word is often used in IELTS: Estimate.",
+    "example_uz": "Bu so'z \"baholamoq\" degani."
+  },
+  {
+    "id": 249,
+    "category": "ielts",
+    "english": "Lure",
+    "uzbek": "vasvasa; havasini keltirish",
+    "example_en": "This word is often used in IELTS: Lure.",
+    "example_uz": "Bu so'z \"vasvasa; havasini keltirish\" degani."
+  },
+  {
+    "id": 250,
+    "category": "ielts",
+    "english": "Primary",
+    "uzbek": "boshlang'ich; dastlabki",
+    "example_en": "This word is often used in IELTS: Primary.",
+    "example_uz": "Bu so'z \"boshlang'ich; dastlabki\" degani."
+  },
+  {
+    "id": 251,
+    "category": "ielts",
+    "english": "Qualified",
+    "uzbek": "malakali",
+    "example_en": "This word is often used in IELTS: Qualified.",
+    "example_uz": "Bu so'z \"malakali\" degani."
+  },
+  {
+    "id": 252,
+    "category": "ielts",
+    "english": "Rampant",
+    "uzbek": "keng tarqalgan",
+    "example_en": "This word is often used in IELTS: Rampant.",
+    "example_uz": "Bu so'z \"keng tarqalgan\" degani."
+  },
+  {
+    "id": 253,
+    "category": "ielts",
+    "english": "Retain",
+    "uzbek": "saqlamoq",
+    "example_en": "This word is often used in IELTS: Retain.",
+    "example_uz": "Bu so'z \"saqlamoq\" degani."
+  },
+  {
+    "id": 254,
+    "category": "ielts",
+    "english": "Rudimentary",
+    "uzbek": "oddiy; elementar",
+    "example_en": "This word is often used in IELTS: Rudimentary.",
+    "example_uz": "Bu so'z \"oddiy; elementar\" degani."
+  },
+  {
+    "id": 255,
+    "category": "ielts",
+    "english": "Shortage",
+    "uzbek": "yetishmovchilik",
+    "example_en": "This word is often used in IELTS: Shortage.",
+    "example_uz": "Bu so'z \"yetishmovchilik\" degani."
+  },
+  {
+    "id": 256,
+    "category": "ielts",
+    "english": "Standpoint",
+    "uzbek": "qarash; nuqtai nazar",
+    "example_en": "This word is often used in IELTS: Standpoint.",
+    "example_uz": "Bu so'z \"qarash; nuqtai nazar\" degani."
+  },
+  {
+    "id": 257,
+    "category": "ielts",
+    "english": "Stem",
+    "uzbek": "...dan kelib chiqmoq",
+    "example_en": "This word is often used in IELTS: Stem.",
+    "example_uz": "Bu so'z \"...dan kelib chiqmoq\" degani."
+  },
+  {
+    "id": 258,
+    "category": "ielts",
+    "english": "Supply",
+    "uzbek": "ta'minot; ta'minlamoq",
+    "example_en": "This word is often used in IELTS: Supply.",
+    "example_uz": "Bu so'z \"ta'minot; ta'minlamoq\" degani."
+  },
+  {
+    "id": 259,
+    "category": "ielts",
+    "english": "Vacancy",
+    "uzbek": "bo'sh ish o'rni",
+    "example_en": "This word is often used in IELTS: Vacancy.",
+    "example_uz": "Bu so'z \"bo'sh ish o'rni\" degani."
+  },
+  {
+    "id": 260,
+    "category": "ielts",
+    "english": "Aerobic",
+    "uzbek": "aerobik",
+    "example_en": "This word is often used in IELTS: Aerobic.",
+    "example_uz": "Bu so'z \"aerobik\" degani."
+  },
+  {
+    "id": 261,
+    "category": "ielts",
+    "english": "Capacity",
+    "uzbek": "sig'im",
+    "example_en": "This word is often used in IELTS: Capacity.",
+    "example_uz": "Bu so'z \"sig'im\" degani."
+  },
+  {
+    "id": 262,
+    "category": "ielts",
+    "english": "Cognition",
+    "uzbek": "bilish qobiliyati",
+    "example_en": "This word is often used in IELTS: Cognition.",
+    "example_uz": "Bu so'z \"bilish qobiliyati\" degani."
+  },
+  {
+    "id": 263,
+    "category": "ielts",
+    "english": "Concentration",
+    "uzbek": "fikrni jamlash",
+    "example_en": "This word is often used in IELTS: Concentration.",
+    "example_uz": "Bu so'z \"fikrni jamlash\" degani."
+  },
+  {
+    "id": 264,
+    "category": "ielts",
+    "english": "Counteract",
+    "uzbek": "qarshi harakat qilmoq",
+    "example_en": "This word is often used in IELTS: Counteract.",
+    "example_uz": "Bu so'z \"qarshi harakat qilmoq\" degani."
+  },
+  {
+    "id": 265,
+    "category": "ielts",
+    "english": "Dementia",
+    "uzbek": "aqli pastlik",
+    "example_en": "This word is often used in IELTS: Dementia.",
+    "example_uz": "Bu so'z \"aqli pastlik\" degani."
+  },
+  {
+    "id": 266,
+    "category": "ielts",
+    "english": "Deterioration",
+    "uzbek": "buzilish; yomonlashish",
+    "example_en": "This word is often used in IELTS: Deterioration.",
+    "example_uz": "Bu so'z \"buzilish; yomonlashish\" degani."
+  },
+  {
+    "id": 267,
+    "category": "ielts",
+    "english": "Diagnose",
+    "uzbek": "tashxis qo'ymoq",
+    "example_en": "This word is often used in IELTS: Diagnose.",
+    "example_uz": "Bu so'z \"tashxis qo'ymoq\" degani."
+  },
+  {
+    "id": 268,
+    "category": "ielts",
+    "english": "Disorder",
+    "uzbek": "tartibsizlik",
+    "example_en": "This word is often used in IELTS: Disorder.",
+    "example_uz": "Bu so'z \"tartibsizlik\" degani."
+  },
+  {
+    "id": 269,
+    "category": "ielts",
+    "english": "Gravity",
+    "uzbek": "muhimlik; tortishish",
+    "example_en": "This word is often used in IELTS: Gravity.",
+    "example_uz": "Bu so'z \"muhimlik; tortishish\" degani."
+  },
+  {
+    "id": 270,
+    "category": "ielts",
+    "english": "Impaired",
+    "uzbek": "zaiflashgan; yomonlashgan",
+    "example_en": "This word is often used in IELTS: Impaired.",
+    "example_uz": "Bu so'z \"zaiflashgan; yomonlashgan\" degani."
+  },
+  {
+    "id": 271,
+    "category": "ielts",
+    "english": "Indicate",
+    "uzbek": "ko'rsatmoq; bildirmoq",
+    "example_en": "This word is often used in IELTS: Indicate.",
+    "example_uz": "Bu so'z \"ko'rsatmoq; bildirmoq\" degani."
+  },
+  {
+    "id": 272,
+    "category": "ielts",
+    "english": "Link",
+    "uzbek": "bog'liqlik",
+    "example_en": "This word is often used in IELTS: Link.",
+    "example_uz": "Bu so'z \"bog'liqlik\" degani."
+  },
+  {
+    "id": 273,
+    "category": "ielts",
+    "english": "Mood",
+    "uzbek": "kayfiyat",
+    "example_en": "This word is often used in IELTS: Mood.",
+    "example_uz": "Bu so'z \"kayfiyat\" degani."
+  },
+  {
+    "id": 274,
+    "category": "ielts",
+    "english": "Previous",
+    "uzbek": "ilgarigi; dastlabki",
+    "example_en": "This word is often used in IELTS: Previous.",
+    "example_uz": "Bu so'z \"ilgarigi; dastlabki\" degani."
+  },
+  {
+    "id": 275,
+    "category": "ielts",
+    "english": "Regulate",
+    "uzbek": "boshqarmoq",
+    "example_en": "This word is often used in IELTS: Regulate.",
+    "example_uz": "Bu so'z \"boshqarmoq\" degani."
+  },
+  {
+    "id": 276,
+    "category": "ielts",
+    "english": "Rodent",
+    "uzbek": "kemiruvchi",
+    "example_en": "This word is often used in IELTS: Rodent.",
+    "example_uz": "Bu so'z \"kemiruvchi\" degani."
+  },
+  {
+    "id": 277,
+    "category": "ielts",
+    "english": "Spatial",
+    "uzbek": "makonga oid",
+    "example_en": "This word is often used in IELTS: Spatial.",
+    "example_uz": "Bu so'z \"makonga oid\" degani."
+  },
+  {
+    "id": 278,
+    "category": "ielts",
+    "english": "Stave off",
+    "uzbek": "oldini olmoq; to'xtatib qolmoq",
+    "example_en": "This word is often used in IELTS: Stave off.",
+    "example_uz": "Bu so'z \"oldini olmoq; to'xtatib qolmoq\" degani."
+  },
+  {
+    "id": 279,
+    "category": "ielts",
+    "english": "Stimulate",
+    "uzbek": "rag'batlantirmoq; qo'zg'amoq",
+    "example_en": "This word is often used in IELTS: Stimulate.",
+    "example_uz": "Bu so'z \"rag'batlantirmoq; qo'zg'amoq\" degani."
+  },
+  {
+    "id": 280,
+    "category": "ielts",
+    "english": "Absorb",
+    "uzbek": "so'rmoq; singdirmoq",
+    "example_en": "This word is often used in IELTS: Absorb.",
+    "example_uz": "Bu so'z \"so'rmoq; singdirmoq\" degani."
+  },
+  {
+    "id": 281,
+    "category": "ielts",
+    "english": "Alleviate",
+    "uzbek": "yengillatmoq",
+    "example_en": "This word is often used in IELTS: Alleviate.",
+    "example_uz": "Bu so'z \"yengillatmoq\" degani."
+  },
+  {
+    "id": 282,
+    "category": "ielts",
+    "english": "Ascertain",
+    "uzbek": "aniqlashtirmoq",
+    "example_en": "This word is often used in IELTS: Ascertain.",
+    "example_uz": "Bu so'z \"aniqlashtirmoq\" degani."
+  },
+  {
+    "id": 283,
+    "category": "ielts",
+    "english": "Chronic",
+    "uzbek": "surunkali",
+    "example_en": "This word is often used in IELTS: Chronic.",
+    "example_uz": "Bu so'z \"surunkali\" degani."
+  },
+  {
+    "id": 284,
+    "category": "ielts",
+    "english": "Combat",
+    "uzbek": "kurashmoq; olishmoq",
+    "example_en": "This word is often used in IELTS: Combat.",
+    "example_uz": "Bu so'z \"kurashmoq; olishmoq\" degani."
+  },
+  {
+    "id": 285,
+    "category": "ielts",
+    "english": "Culture",
+    "uzbek": "madaniyat",
+    "example_en": "This word is often used in IELTS: Culture.",
+    "example_uz": "Bu so'z \"madaniyat\" degani."
+  },
+  {
+    "id": 286,
+    "category": "ielts",
+    "english": "Deem",
+    "uzbek": "...deb o'ylamoq",
+    "example_en": "This word is often used in IELTS: Deem.",
+    "example_uz": "Bu so'z \"...deb o'ylamoq\" degani."
+  },
+  {
+    "id": 287,
+    "category": "ielts",
+    "english": "Desirable",
+    "uzbek": "istalgan; ma'qul",
+    "example_en": "This word is often used in IELTS: Desirable.",
+    "example_uz": "Bu so'z \"istalgan; ma'qul\" degani."
+  },
+  {
+    "id": 288,
+    "category": "ielts",
+    "english": "Enhance",
+    "uzbek": "kuchaytirmoq; kattalashtirmoq",
+    "example_en": "This word is often used in IELTS: Enhance.",
+    "example_uz": "Bu so'z \"kuchaytirmoq; kattalashtirmoq\" degani."
+  },
+  {
+    "id": 289,
+    "category": "ielts",
+    "english": "Fraction",
+    "uzbek": "qism; bo'lak",
+    "example_en": "This word is often used in IELTS: Fraction.",
+    "example_uz": "Bu so'z \"qism; bo'lak\" degani."
+  },
+  {
+    "id": 290,
+    "category": "ielts",
+    "english": "Interval",
+    "uzbek": "oraliq masofa; interval",
+    "example_en": "This word is often used in IELTS: Interval.",
+    "example_uz": "Bu so'z \"oraliq masofa; interval\" degani."
+  },
+  {
+    "id": 291,
+    "category": "ielts",
+    "english": "Investigation",
+    "uzbek": "tadqiqot; izlanish",
+    "example_en": "This word is often used in IELTS: Investigation.",
+    "example_uz": "Bu so'z \"tadqiqot; izlanish\" degani."
+  },
+  {
+    "id": 292,
+    "category": "ielts",
+    "english": "Manufacture",
+    "uzbek": "ishlab chiqarmoq",
+    "example_en": "This word is often used in IELTS: Manufacture.",
+    "example_uz": "Bu so'z \"ishlab chiqarmoq\" degani."
+  },
+  {
+    "id": 293,
+    "category": "ielts",
+    "english": "Monitor",
+    "uzbek": "muntazam tekshirib bormoq",
+    "example_en": "This word is often used in IELTS: Monitor.",
+    "example_uz": "Bu so'z \"muntazam tekshirib bormoq\" degani."
+  },
+  {
+    "id": 294,
+    "category": "ielts",
+    "english": "Outcome",
+    "uzbek": "natija; samara",
+    "example_en": "This word is often used in IELTS: Outcome.",
+    "example_uz": "Bu so'z \"natija; samara\" degani."
+  },
+  {
+    "id": 295,
+    "category": "ielts",
+    "english": "Recur",
+    "uzbek": "qayta sodir bo'lmoq",
+    "example_en": "This word is often used in IELTS: Recur.",
+    "example_uz": "Bu so'z \"qayta sodir bo'lmoq\" degani."
+  },
+  {
+    "id": 296,
+    "category": "ielts",
+    "english": "Substance",
+    "uzbek": "modda; mazmun",
+    "example_en": "This word is often used in IELTS: Substance.",
+    "example_uz": "Bu so'z \"modda; mazmun\" degani."
+  },
+  {
+    "id": 297,
+    "category": "ielts",
+    "english": "Target",
+    "uzbek": "maqsad; nishon",
+    "example_en": "This word is often used in IELTS: Target.",
+    "example_uz": "Bu so'z \"maqsad; nishon\" degani."
+  },
+  {
+    "id": 298,
+    "category": "ielts",
+    "english": "Theoretical",
+    "uzbek": "nazariy",
+    "example_en": "This word is often used in IELTS: Theoretical.",
+    "example_uz": "Bu so'z \"nazariy\" degani."
+  },
+  {
+    "id": 299,
+    "category": "ielts",
+    "english": "Toxic",
+    "uzbek": "zaharli",
+    "example_en": "This word is often used in IELTS: Toxic.",
+    "example_uz": "Bu so'z \"zaharli\" degani."
+  },
+  {
+    "id": 300,
+    "category": "ielts",
+    "english": "Accessible",
+    "uzbek": "oson; erishib bo'ladigan",
+    "example_en": "This word is often used in IELTS: Accessible.",
+    "example_uz": "Bu so'z \"oson; erishib bo'ladigan\" degani."
+  },
+  {
+    "id": 301,
+    "category": "ielts",
+    "english": "Adventurous",
+    "uzbek": "dadil; sarguzashtni sevuvchi",
+    "example_en": "This word is often used in IELTS: Adventurous.",
+    "example_uz": "Bu so'z \"dadil; sarguzashtni sevuvchi\" degani."
+  },
+  {
+    "id": 302,
+    "category": "ielts",
+    "english": "Archaeologist",
+    "uzbek": "arxeolog",
+    "example_en": "This word is often used in IELTS: Archaeologist.",
+    "example_uz": "Bu so'z \"arxeolog\" degani."
+  },
+  {
+    "id": 303,
+    "category": "ielts",
+    "english": "Ceremonial",
+    "uzbek": "rasmiy; tantanali",
+    "example_en": "This word is often used in IELTS: Ceremonial.",
+    "example_uz": "Bu so'z \"rasmiy; tantanali\" degani."
+  },
+  {
+    "id": 304,
+    "category": "ielts",
+    "english": "Construct",
+    "uzbek": "qurmoq; barpo qilmoq",
+    "example_en": "This word is often used in IELTS: Construct.",
+    "example_uz": "Bu so'z \"qurmoq; barpo qilmoq\" degani."
+  },
+  {
+    "id": 305,
+    "category": "ielts",
+    "english": "Draw",
+    "uzbek": "tashimoq; sug'urib olmoq",
+    "example_en": "This word is often used in IELTS: Draw.",
+    "example_uz": "Bu so'z \"tashimoq; sug'urib olmoq\" degani."
+  },
+  {
+    "id": 306,
+    "category": "ielts",
+    "english": "Imagination",
+    "uzbek": "tasavvur",
+    "example_en": "This word is often used in IELTS: Imagination.",
+    "example_uz": "Bu so'z \"tasavvur\" degani."
+  },
+  {
+    "id": 307,
+    "category": "ielts",
+    "english": "Institute",
+    "uzbek": "joriy qilmoq; asos solmoq",
+    "example_en": "This word is often used in IELTS: Institute.",
+    "example_uz": "Bu so'z \"joriy qilmoq; asos solmoq\" degani."
+  },
+  {
+    "id": 308,
+    "category": "ielts",
+    "english": "Luxury",
+    "uzbek": "hashamat",
+    "example_en": "This word is often used in IELTS: Luxury.",
+    "example_uz": "Bu so'z \"hashamat\" degani."
+  },
+  {
+    "id": 309,
+    "category": "ielts",
+    "english": "Marvel",
+    "uzbek": "mo'jiza",
+    "example_en": "This word is often used in IELTS: Marvel.",
+    "example_uz": "Bu so'z \"mo'jiza\" degani."
+  },
+  {
+    "id": 310,
+    "category": "ielts",
+    "english": "Mystery",
+    "uzbek": "sir; sinoat",
+    "example_en": "This word is often used in IELTS: Mystery.",
+    "example_uz": "Bu so'z \"sir; sinoat\" degani."
+  },
+  {
+    "id": 311,
+    "category": "ielts",
+    "english": "Native",
+    "uzbek": "mahalliy; shu yerli",
+    "example_en": "This word is often used in IELTS: Native.",
+    "example_uz": "Bu so'z \"mahalliy; shu yerli\" degani."
+  },
+  {
+    "id": 312,
+    "category": "ielts",
+    "english": "Network",
+    "uzbek": "tizim; tarmoq",
+    "example_en": "This word is often used in IELTS: Network.",
+    "example_uz": "Bu so'z \"tizim; tarmoq\" degani."
+  },
+  {
+    "id": 313,
+    "category": "ielts",
+    "english": "Pertain",
+    "uzbek": "tegishli bo'lmoq",
+    "example_en": "This word is often used in IELTS: Pertain.",
+    "example_uz": "Bu so'z \"tegishli bo'lmoq\" degani."
+  },
+  {
+    "id": 314,
+    "category": "ielts",
+    "english": "Precisely",
+    "uzbek": "aniq; aynan",
+    "example_en": "This word is often used in IELTS: Precisely.",
+    "example_uz": "Bu so'z \"aniq; aynan\" degani."
+  },
+  {
+    "id": 315,
+    "category": "ielts",
+    "english": "Preserve",
+    "uzbek": "saqlamoq; asramoq",
+    "example_en": "This word is often used in IELTS: Preserve.",
+    "example_uz": "Bu so'z \"saqlamoq; asramoq\" degani."
+  },
+  {
+    "id": 316,
+    "category": "ielts",
+    "english": "Restriction",
+    "uzbek": "cheklov; taqiq",
+    "example_en": "This word is often used in IELTS: Restriction.",
+    "example_uz": "Bu so'z \"cheklov; taqiq\" degani."
+  },
+  {
+    "id": 317,
+    "category": "ielts",
+    "english": "Site",
+    "uzbek": "joylashgan joy",
+    "example_en": "This word is often used in IELTS: Site.",
+    "example_uz": "Bu so'z \"joylashgan joy\" degani."
+  },
+  {
+    "id": 318,
+    "category": "ielts",
+    "english": "Spectacular",
+    "uzbek": "ta'sirchan",
+    "example_en": "This word is often used in IELTS: Spectacular.",
+    "example_uz": "Bu so'z \"ta'sirchan\" degani."
+  },
+  {
+    "id": 319,
+    "category": "ielts",
+    "english": "Upside",
+    "uzbek": "yuqori qism",
+    "example_en": "This word is often used in IELTS: Upside.",
+    "example_uz": "Bu so'z \"yuqori qism\" degani."
+  },
+  {
+    "id": 320,
+    "category": "ielts",
+    "english": "Accommodation",
+    "uzbek": "boshpana; moslashish",
+    "example_en": "This word is often used in IELTS: Accommodation.",
+    "example_uz": "Bu so'z \"boshpana; moslashish\" degani."
+  },
+  {
+    "id": 321,
+    "category": "ielts",
+    "english": "Avoid",
+    "uzbek": "oldini olmoq; qochmoq",
+    "example_en": "This word is often used in IELTS: Avoid.",
+    "example_uz": "Bu so'z \"oldini olmoq; qochmoq\" degani."
+  },
+  {
+    "id": 322,
+    "category": "ielts",
+    "english": "Barrier",
+    "uzbek": "g'ov; to'siq",
+    "example_en": "This word is often used in IELTS: Barrier.",
+    "example_uz": "Bu so'z \"g'ov; to'siq\" degani."
+  },
+  {
+    "id": 323,
+    "category": "ielts",
+    "english": "Category",
+    "uzbek": "kategoriya; sinf",
+    "example_en": "This word is often used in IELTS: Category.",
+    "example_uz": "Bu so'z \"kategoriya; sinf\" degani."
+  },
+  {
+    "id": 324,
+    "category": "ielts",
+    "english": "Concept",
+    "uzbek": "tushuncha; g'oya",
+    "example_en": "This word is often used in IELTS: Concept.",
+    "example_uz": "Bu so'z \"tushuncha; g'oya\" degani."
+  },
+  {
+    "id": 325,
+    "category": "ielts",
+    "english": "Culprit",
+    "uzbek": "aybdor; jinoyatchi",
+    "example_en": "This word is often used in IELTS: Culprit.",
+    "example_uz": "Bu so'z \"aybdor; jinoyatchi\" degani."
+  },
+  {
+    "id": 326,
+    "category": "ielts",
+    "english": "Delicate",
+    "uzbek": "nozik; nafis",
+    "example_en": "This word is often used in IELTS: Delicate.",
+    "example_uz": "Bu so'z \"nozik; nafis\" degani."
+  },
+  {
+    "id": 327,
+    "category": "ielts",
+    "english": "Destination",
+    "uzbek": "manzil",
+    "example_en": "This word is often used in IELTS: Destination.",
+    "example_uz": "Bu so'z \"manzil\" degani."
+  },
+  {
+    "id": 328,
+    "category": "ielts",
+    "english": "Dump",
+    "uzbek": "tashlab yubormoq; to'plamoq",
+    "example_en": "This word is often used in IELTS: Dump.",
+    "example_uz": "Bu so'z \"tashlab yubormoq; to'plamoq\" degani."
+  },
+  {
+    "id": 329,
+    "category": "ielts",
+    "english": "Injure",
+    "uzbek": "jarohatlamoq",
+    "example_en": "This word is often used in IELTS: Injure.",
+    "example_uz": "Bu so'z \"jarohatlamoq\" degani."
+  },
+  {
+    "id": 330,
+    "category": "ielts",
+    "english": "Pleasure",
+    "uzbek": "rohat; huzur-halovat",
+    "example_en": "This word is often used in IELTS: Pleasure.",
+    "example_uz": "Bu so'z \"rohat; huzur-halovat\" degani."
+  },
+  {
+    "id": 331,
+    "category": "ielts",
+    "english": "Practice(n) practise (v)",
+    "uzbek": "amaliyot; mashq; amaliyot qilmoq",
+    "example_en": "This word is often used in IELTS: Practice(n) practise (v).",
+    "example_uz": "Bu so'z \"amaliyot; mashq; amaliyot qilmoq\" degani."
+  },
+  {
+    "id": 332,
+    "category": "ielts",
+    "english": "Principle",
+    "uzbek": "tamoyil; qoida",
+    "example_en": "This word is often used in IELTS: Principle.",
+    "example_uz": "Bu so'z \"tamoyil; qoida\" degani."
+  },
+  {
+    "id": 333,
+    "category": "ielts",
+    "english": "Publicity",
+    "uzbek": "mashhurlik; oshkoralik",
+    "example_en": "This word is often used in IELTS: Publicity.",
+    "example_uz": "Bu so'z \"mashhurlik; oshkoralik\" degani."
+  },
+  {
+    "id": 334,
+    "category": "ielts",
+    "english": "Recycling",
+    "uzbek": "qayta ishlash",
+    "example_en": "This word is often used in IELTS: Recycling.",
+    "example_uz": "Bu so'z \"qayta ishlash\" degani."
+  },
+  {
+    "id": 335,
+    "category": "ielts",
+    "english": "Remote",
+    "uzbek": "olis; uzoq",
+    "example_en": "This word is often used in IELTS: Remote.",
+    "example_uz": "Bu so'z \"olis; uzoq\" degani."
+  },
+  {
+    "id": 336,
+    "category": "ielts",
+    "english": "Strive",
+    "uzbek": "intilmoq; urinmoq",
+    "example_en": "This word is often used in IELTS: Strive.",
+    "example_uz": "Bu so'z \"intilmoq; urinmoq\" degani."
+  },
+  {
+    "id": 337,
+    "category": "ielts",
+    "english": "Volunteer",
+    "uzbek": "ko'ngilli",
+    "example_en": "This word is often used in IELTS: Volunteer.",
+    "example_uz": "Bu so'z \"ko'ngilli\" degani."
+  },
+  {
+    "id": 338,
+    "category": "ielts",
+    "english": "Wary",
+    "uzbek": "ehtiyotkor",
+    "example_en": "This word is often used in IELTS: Wary.",
+    "example_uz": "Bu so'z \"ehtiyotkor\" degani."
+  },
+  {
+    "id": 339,
+    "category": "ielts",
+    "english": "Wilderness",
+    "uzbek": "yovvoyi tabiat",
+    "example_en": "This word is often used in IELTS: Wilderness.",
+    "example_uz": "Bu so'z \"yovvoyi tabiat\" degani."
+  },
+  {
+    "id": 340,
+    "category": "ielts",
+    "english": "Acquire",
+    "uzbek": "egallamoq; erishmoq",
+    "example_en": "This word is often used in IELTS: Acquire.",
+    "example_uz": "Bu so'z \"egallamoq; erishmoq\" degani."
+  },
+  {
+    "id": 341,
+    "category": "ielts",
+    "english": "Breeze",
+    "uzbek": "yengil shabada",
+    "example_en": "This word is often used in IELTS: Breeze.",
+    "example_uz": "Bu so'z \"yengil shabada\" degani."
+  },
+  {
+    "id": 342,
+    "category": "ielts",
+    "english": "Broad",
+    "uzbek": "keng",
+    "example_en": "This word is often used in IELTS: Broad.",
+    "example_uz": "Bu so'z \"keng\" degani."
+  },
+  {
+    "id": 343,
+    "category": "ielts",
+    "english": "Budget",
+    "uzbek": "byudjet",
+    "example_en": "This word is often used in IELTS: Budget.",
+    "example_uz": "Bu so'z \"byudjet\" degani."
+  },
+  {
+    "id": 344,
+    "category": "ielts",
+    "english": "Colourful",
+    "uzbek": "rangli; yorqin",
+    "example_en": "This word is often used in IELTS: Colourful.",
+    "example_uz": "Bu so'z \"rangli; yorqin\" degani."
+  },
+  {
+    "id": 345,
+    "category": "ielts",
+    "english": "Content",
+    "uzbek": "mamnun; mazmun",
+    "example_en": "This word is often used in IELTS: Content.",
+    "example_uz": "Bu so'z \"mamnun; mazmun\" degani."
+  },
+  {
+    "id": 346,
+    "category": "ielts",
+    "english": "Costly",
+    "uzbek": "qimmat",
+    "example_en": "This word is often used in IELTS: Costly.",
+    "example_uz": "Bu so'z \"qimmat\" degani."
+  },
+  {
+    "id": 347,
+    "category": "ielts",
+    "english": "Cuisine",
+    "uzbek": "oshxona",
+    "example_en": "This word is often used in IELTS: Cuisine.",
+    "example_uz": "Bu so'z \"oshxona\" degani."
+  },
+  {
+    "id": 348,
+    "category": "ielts",
+    "english": "Economical",
+    "uzbek": "tejamkor",
+    "example_en": "This word is often used in IELTS: Economical.",
+    "example_uz": "Bu so'z \"tejamkor\" degani."
+  },
+  {
+    "id": 349,
+    "category": "ielts",
+    "english": "Endeavour",
+    "uzbek": "harakat qilmoq",
+    "example_en": "This word is often used in IELTS: Endeavour.",
+    "example_uz": "Bu so'z \"harakat qilmoq\" degani."
+  },
+  {
+    "id": 350,
+    "category": "ielts",
+    "english": "Enrol",
+    "uzbek": "ro'yxatga olmoq; a'zo bo'lmoq",
+    "example_en": "This word is often used in IELTS: Enrol.",
+    "example_uz": "Bu so'z \"ro'yxatga olmoq; a'zo bo'lmoq\" degani."
+  },
+  {
+    "id": 351,
+    "category": "ielts",
+    "english": "Hone",
+    "uzbek": "o'tkir qilmoq",
+    "example_en": "This word is often used in IELTS: Hone.",
+    "example_uz": "Bu so'z \"o'tkir qilmoq\" degani."
+  },
+  {
+    "id": 352,
+    "category": "ielts",
+    "english": "Ingredient",
+    "uzbek": "tarkibiy qism",
+    "example_en": "This word is often used in IELTS: Ingredient.",
+    "example_uz": "Bu so'z \"tarkibiy qism\" degani."
+  },
+  {
+    "id": 353,
+    "category": "ielts",
+    "english": "Ongoing",
+    "uzbek": "davom etayotgan",
+    "example_en": "This word is often used in IELTS: Ongoing.",
+    "example_uz": "Bu so'z \"davom etayotgan\" degani."
+  },
+  {
+    "id": 354,
+    "category": "ielts",
+    "english": "Residential",
+    "uzbek": "yashashga oid; turarjoyli",
+    "example_en": "This word is often used in IELTS: Residential.",
+    "example_uz": "Bu so'z \"yashashga oid; turarjoyli\" degani."
+  },
+  {
+    "id": 355,
+    "category": "ielts",
+    "english": "Resort",
+    "uzbek": "kurort",
+    "example_en": "This word is often used in IELTS: Resort.",
+    "example_uz": "Bu so'z \"kurort\" degani."
+  },
+  {
+    "id": 356,
+    "category": "ielts",
+    "english": "Sponsor",
+    "uzbek": "homiy",
+    "example_en": "This word is often used in IELTS: Sponsor.",
+    "example_uz": "Bu so'z \"homiy\" degani."
+  },
+  {
+    "id": 357,
+    "category": "ielts",
+    "english": "Supervision",
+    "uzbek": "kuzatish; rahbarlik",
+    "example_en": "This word is often used in IELTS: Supervision.",
+    "example_uz": "Bu so'z \"kuzatish; rahbarlik\" degani."
+  },
+  {
+    "id": 358,
+    "category": "ielts",
+    "english": "Survey",
+    "uzbek": "so'rovnoma",
+    "example_en": "This word is often used in IELTS: Survey.",
+    "example_uz": "Bu so'z \"so'rovnoma\" degani."
+  },
+  {
+    "id": 359,
+    "category": "ielts",
+    "english": "Taste",
+    "uzbek": "did; ta'b",
+    "example_en": "This word is often used in IELTS: Taste.",
+    "example_uz": "Bu so'z \"did; ta'b\" degani."
+  },
+  {
+    "id": 360,
+    "category": "ielts",
+    "english": "Afloat",
+    "uzbek": "suvda suzayotgan",
+    "example_en": "This word is often used in IELTS: Afloat.",
+    "example_uz": "Bu so'z \"suvda suzayotgan\" degani."
+  },
+  {
+    "id": 361,
+    "category": "ielts",
+    "english": "Characteristic",
+    "uzbek": "o'ziga xos jihat",
+    "example_en": "This word is often used in IELTS: Characteristic.",
+    "example_uz": "Bu so'z \"o'ziga xos jihat\" degani."
+  },
+  {
+    "id": 362,
+    "category": "ielts",
+    "english": "Compete",
+    "uzbek": "musobaqalashmoq",
+    "example_en": "This word is often used in IELTS: Compete.",
+    "example_uz": "Bu so'z \"musobaqalashmoq\" degani."
+  },
+  {
+    "id": 363,
+    "category": "ielts",
+    "english": "Edge",
+    "uzbek": "chekka; chegara",
+    "example_en": "This word is often used in IELTS: Edge.",
+    "example_uz": "Bu so'z \"chekka; chegara\" degani."
+  },
+  {
+    "id": 364,
+    "category": "ielts",
+    "english": "Financial",
+    "uzbek": "moliyaviy",
+    "example_en": "This word is often used in IELTS: Financial.",
+    "example_uz": "Bu so'z \"moliyaviy\" degani."
+  },
+  {
+    "id": 365,
+    "category": "ielts",
+    "english": "Inevitably",
+    "uzbek": "muqarrar ravishda",
+    "example_en": "This word is often used in IELTS: Inevitably.",
+    "example_uz": "Bu so'z \"muqarrar ravishda\" degani."
+  },
+  {
+    "id": 366,
+    "category": "ielts",
+    "english": "Initial",
+    "uzbek": "dastlabki",
+    "example_en": "This word is often used in IELTS: Initial.",
+    "example_uz": "Bu so'z \"dastlabki\" degani."
+  },
+  {
+    "id": 367,
+    "category": "ielts",
+    "english": "Motivation",
+    "uzbek": "motivasya; undash",
+    "example_en": "This word is often used in IELTS: Motivation.",
+    "example_uz": "Bu so'z \"motivasya; undash\" degani."
+  },
+  {
+    "id": 368,
+    "category": "ielts",
+    "english": "Niche",
+    "uzbek": "boshpana; qulay o'rin",
+    "example_en": "This word is often used in IELTS: Niche.",
+    "example_uz": "Bu so'z \"boshpana; qulay o'rin\" degani."
+  },
+  {
+    "id": 369,
+    "category": "ielts",
+    "english": "Particular",
+    "uzbek": "o'ziga xos; ma'lum bir",
+    "example_en": "This word is often used in IELTS: Particular.",
+    "example_uz": "Bu so'z \"o'ziga xos; ma'lum bir\" degani."
+  },
+  {
+    "id": 370,
+    "category": "ielts",
+    "english": "Personalized",
+    "uzbek": "moslashtirilgan",
+    "example_en": "This word is often used in IELTS: Personalized.",
+    "example_uz": "Bu so'z \"moslashtirilgan\" degani."
+  },
+  {
+    "id": 371,
+    "category": "ielts",
+    "english": "Potential",
+    "uzbek": "salohiyat",
+    "example_en": "This word is often used in IELTS: Potential.",
+    "example_uz": "Bu so'z \"salohiyat\" degani."
+  },
+  {
+    "id": 372,
+    "category": "ielts",
+    "english": "Product",
+    "uzbek": "mahsulot",
+    "example_en": "This word is often used in IELTS: Product.",
+    "example_uz": "Bu so'z \"mahsulot\" degani."
+  },
+  {
+    "id": 373,
+    "category": "ielts",
+    "english": "Profit",
+    "uzbek": "foyda",
+    "example_en": "This word is often used in IELTS: Profit.",
+    "example_uz": "Bu so'z \"foyda\" degani."
+  },
+  {
+    "id": 374,
+    "category": "ielts",
+    "english": "Project",
+    "uzbek": "loyiha",
+    "example_en": "This word is often used in IELTS: Project.",
+    "example_uz": "Bu so'z \"loyiha\" degani."
+  },
+  {
+    "id": 375,
+    "category": "ielts",
+    "english": "Reputation",
+    "uzbek": "obro'",
+    "example_en": "This word is often used in IELTS: Reputation.",
+    "example_uz": "Bu so'z \"obro'\" degani."
+  },
+  {
+    "id": 376,
+    "category": "ielts",
+    "english": "Sound",
+    "uzbek": "mustahkam; kuchli",
+    "example_en": "This word is often used in IELTS: Sound.",
+    "example_uz": "Bu so'z \"mustahkam; kuchli\" degani."
+  },
+  {
+    "id": 377,
+    "category": "ielts",
+    "english": "Tip",
+    "uzbek": "foydali maslahat",
+    "example_en": "This word is often used in IELTS: Tip.",
+    "example_uz": "Bu so'z \"foydali maslahat\" degani."
+  },
+  {
+    "id": 378,
+    "category": "ielts",
+    "english": "Unique",
+    "uzbek": "yakkayu yagona",
+    "example_en": "This word is often used in IELTS: Unique.",
+    "example_uz": "Bu so'z \"yakkayu yagona\" degani."
+  },
+  {
+    "id": 379,
+    "category": "ielts",
+    "english": "Vital",
+    "uzbek": "muhim",
+    "example_en": "This word is often used in IELTS: Vital.",
+    "example_uz": "Bu so'z \"muhim\" degani."
+  },
+  {
+    "id": 380,
+    "category": "ielts",
+    "english": "Bond",
+    "uzbek": "rishta; aloqa",
+    "example_en": "This word is often used in IELTS: Bond.",
+    "example_uz": "Bu so'z \"rishta; aloqa\" degani."
+  },
+  {
+    "id": 381,
+    "category": "ielts",
+    "english": "Brand loyalty",
+    "uzbek": "brendga sodiqlik",
+    "example_en": "This word is often used in IELTS: Brand loyalty.",
+    "example_uz": "Bu so'z \"brendga sodiqlik\" degani."
+  },
+  {
+    "id": 382,
+    "category": "ielts",
+    "english": "Burgeon",
+    "uzbek": "gullab yashnamoq",
+    "example_en": "This word is often used in IELTS: Burgeon.",
+    "example_uz": "Bu so'z \"gullab yashnamoq\" degani."
+  },
+  {
+    "id": 383,
+    "category": "ielts",
+    "english": "Conglomerate",
+    "uzbek": "qorishma; yig'indi",
+    "example_en": "This word is often used in IELTS: Conglomerate.",
+    "example_uz": "Bu so'z \"qorishma; yig'indi\" degani."
+  },
+  {
+    "id": 384,
+    "category": "ielts",
+    "english": "Consistently",
+    "uzbek": "izchil ravishda",
+    "example_en": "This word is often used in IELTS: Consistently.",
+    "example_uz": "Bu so'z \"izchil ravishda\" degani."
+  },
+  {
+    "id": 385,
+    "category": "ielts",
+    "english": "Convince",
+    "uzbek": "ishontirmoq",
+    "example_en": "This word is often used in IELTS: Convince.",
+    "example_uz": "Bu so'z \"ishontirmoq\" degani."
+  },
+  {
+    "id": 386,
+    "category": "ielts",
+    "english": "Endorsement",
+    "uzbek": "tasdiqlash; qo'llab-quvvatlash",
+    "example_en": "This word is often used in IELTS: Endorsement.",
+    "example_uz": "Bu so'z \"tasdiqlash; qo'llab-quvvatlash\" degani."
+  },
+  {
+    "id": 387,
+    "category": "ielts",
+    "english": "Fleeting",
+    "uzbek": "vaqtinchalik",
+    "example_en": "This word is often used in IELTS: Fleeting.",
+    "example_uz": "Bu so'z \"vaqtinchalik\" degani."
+  },
+  {
+    "id": 388,
+    "category": "ielts",
+    "english": "Ignore",
+    "uzbek": "e'tiborsiz qoldirmoq",
+    "example_en": "This word is often used in IELTS: Ignore.",
+    "example_uz": "Bu so'z \"e'tiborsiz qoldirmoq\" degani."
+  },
+  {
+    "id": 389,
+    "category": "ielts",
+    "english": "Loyalty",
+    "uzbek": "sodiqlik",
+    "example_en": "This word is often used in IELTS: Loyalty.",
+    "example_uz": "Bu so'z \"sodiqlik\" degani."
+  },
+  {
+    "id": 390,
+    "category": "ielts",
+    "english": "Outperform",
+    "uzbek": "uddasidan chiqmoq; yaxshiroq bajarmoq",
+    "example_en": "This word is often used in IELTS: Outperform.",
+    "example_uz": "Bu so'z \"uddasidan chiqmoq; yaxshiroq bajarmoq\" degani."
+  },
+  {
+    "id": 391,
+    "category": "ielts",
+    "english": "Passion",
+    "uzbek": "ehtiros",
+    "example_en": "This word is often used in IELTS: Passion.",
+    "example_uz": "Bu so'z \"ehtiros\" degani."
+  },
+  {
+    "id": 392,
+    "category": "ielts",
+    "english": "Phenomenon",
+    "uzbek": "hodisa; voqea",
+    "example_en": "This word is often used in IELTS: Phenomenon.",
+    "example_uz": "Bu so'z \"hodisa; voqea\" degani."
+  },
+  {
+    "id": 393,
+    "category": "ielts",
+    "english": "Prevail",
+    "uzbek": "g'alaba qozonmoq; keng tarqalmoq",
+    "example_en": "This word is often used in IELTS: Prevail.",
+    "example_uz": "Bu so'z \"g'alaba qozonmoq; keng tarqalmoq\" degani."
+  },
+  {
+    "id": 394,
+    "category": "ielts",
+    "english": "Promote",
+    "uzbek": "mansabini oshirmoq; targ'ib qilmoq",
+    "example_en": "This word is often used in IELTS: Promote.",
+    "example_uz": "Bu so'z \"mansabini oshirmoq; targ'ib qilmoq\" degani."
+  },
+  {
+    "id": 395,
+    "category": "ielts",
+    "english": "Reverse",
+    "uzbek": "aksiga o'zgartirmoq",
+    "example_en": "This word is often used in IELTS: Reverse.",
+    "example_uz": "Bu so'z \"aksiga o'zgartirmoq\" degani."
+  },
+  {
+    "id": 396,
+    "category": "ielts",
+    "english": "Selective",
+    "uzbek": "talabchan; tanlab oluvchi",
+    "example_en": "This word is often used in IELTS: Selective.",
+    "example_uz": "Bu so'z \"talabchan; tanlab oluvchi\" degani."
+  },
+  {
+    "id": 397,
+    "category": "ielts",
+    "english": "Staples",
+    "uzbek": "asosiy oziq-ovqatlar",
+    "example_en": "This word is often used in IELTS: Staples.",
+    "example_uz": "Bu so'z \"asosiy oziq-ovqatlar\" degani."
+  },
+  {
+    "id": 398,
+    "category": "ielts",
+    "english": "Status",
+    "uzbek": "mavqe",
+    "example_en": "This word is often used in IELTS: Status.",
+    "example_uz": "Bu so'z \"mavqe\" degani."
+  },
+  {
+    "id": 399,
+    "category": "ielts",
+    "english": "Thirst",
+    "uzbek": "chanqoq",
+    "example_en": "This word is often used in IELTS: Thirst.",
+    "example_uz": "Bu so'z \"chanqoq\" degani."
+  },
+  {
+    "id": 400,
+    "category": "ielts",
+    "english": "Boon",
+    "uzbek": "ezgulik; foyda",
+    "example_en": "This word is often used in IELTS: Boon.",
+    "example_uz": "Bu so'z \"ezgulik; foyda\" degani."
+  },
+  {
+    "id": 401,
+    "category": "ielts",
+    "english": "Branch",
+    "uzbek": "filial; shox",
+    "example_en": "This word is often used in IELTS: Branch.",
+    "example_uz": "Bu so'z \"filial; shox\" degani."
+  },
+  {
+    "id": 402,
+    "category": "ielts",
+    "english": "Catch up",
+    "uzbek": "yetib olmoq",
+    "example_en": "This word is often used in IELTS: Catch up.",
+    "example_uz": "Bu so'z \"yetib olmoq\" degani."
+  },
+  {
+    "id": 403,
+    "category": "ielts",
+    "english": "Coincide",
+    "uzbek": "muvofiq kelmoq",
+    "example_en": "This word is often used in IELTS: Coincide.",
+    "example_uz": "Bu so'z \"muvofiq kelmoq\" degani."
+  },
+  {
+    "id": 404,
+    "category": "ielts",
+    "english": "Confront",
+    "uzbek": "qarshi turmoq; duch kelmoq",
+    "example_en": "This word is often used in IELTS: Confront.",
+    "example_uz": "Bu so'z \"qarshi turmoq; duch kelmoq\" degani."
+  },
+  {
+    "id": 405,
+    "category": "ielts",
+    "english": "Controversy",
+    "uzbek": "munozara; bahs",
+    "example_en": "This word is often used in IELTS: Controversy.",
+    "example_uz": "Bu so'z \"munozara; bahs\" degani."
+  },
+  {
+    "id": 406,
+    "category": "ielts",
+    "english": "Decisive",
+    "uzbek": "hal qiluvchi",
+    "example_en": "This word is often used in IELTS: Decisive.",
+    "example_uz": "Bu so'z \"hal qiluvchi\" degani."
+  },
+  {
+    "id": 407,
+    "category": "ielts",
+    "english": "Enticing",
+    "uzbek": "vasvasa qiluvchi",
+    "example_en": "This word is often used in IELTS: Enticing.",
+    "example_uz": "Bu so'z \"vasvasa qiluvchi\" degani."
+  },
+  {
+    "id": 408,
+    "category": "ielts",
+    "english": "Epicentre",
+    "uzbek": "epitsentr",
+    "example_en": "This word is often used in IELTS: Epicentre.",
+    "example_uz": "Bu so'z \"epitsentr\" degani."
+  },
+  {
+    "id": 409,
+    "category": "ielts",
+    "english": "Firm",
+    "uzbek": "mustahkam; qattiq",
+    "example_en": "This word is often used in IELTS: Firm.",
+    "example_uz": "Bu so'z \"mustahkam; qattiq\" degani."
+  },
+  {
+    "id": 410,
+    "category": "ielts",
+    "english": "Looming",
+    "uzbek": "yaqinlashayotgan",
+    "example_en": "This word is often used in IELTS: Looming.",
+    "example_uz": "Bu so'z \"yaqinlashayotgan\" degani."
+  },
+  {
+    "id": 411,
+    "category": "ielts",
+    "english": "Opponent",
+    "uzbek": "raqib; muxolif",
+    "example_en": "This word is often used in IELTS: Opponent.",
+    "example_uz": "Bu so'z \"raqib; muxolif\" degani."
+  },
+  {
+    "id": 412,
+    "category": "ielts",
+    "english": "Point",
+    "uzbek": "ko'rsatmoq; ta'kidlash",
+    "example_en": "This word is often used in IELTS: Point.",
+    "example_uz": "Bu so'z \"ko'rsatmoq; ta'kidlash\" degani."
+  },
+  {
+    "id": 413,
+    "category": "ielts",
+    "english": "Preponderance",
+    "uzbek": "ustunlik; afzallik",
+    "example_en": "This word is often used in IELTS: Preponderance.",
+    "example_uz": "Bu so'z \"ustunlik; afzallik\" degani."
+  },
+  {
+    "id": 414,
+    "category": "ielts",
+    "english": "Proponent",
+    "uzbek": "tarafdor",
+    "example_en": "This word is often used in IELTS: Proponent.",
+    "example_uz": "Bu so'z \"tarafdor\" degani."
+  },
+  {
+    "id": 415,
+    "category": "ielts",
+    "english": "Remainder",
+    "uzbek": "qoldiq",
+    "example_en": "This word is often used in IELTS: Remainder.",
+    "example_uz": "Bu so'z \"qoldiq\" degani."
+  },
+  {
+    "id": 416,
+    "category": "ielts",
+    "english": "Routinely",
+    "uzbek": "muntazam ravishda",
+    "example_en": "This word is often used in IELTS: Routinely.",
+    "example_uz": "Bu so'z \"muntazam ravishda\" degani."
+  },
+  {
+    "id": 417,
+    "category": "ielts",
+    "english": "Shift",
+    "uzbek": "o'zgartirmoq; almashmoq",
+    "example_en": "This word is often used in IELTS: Shift.",
+    "example_uz": "Bu so'z \"o'zgartirmoq; almashmoq\" degani."
+  },
+  {
+    "id": 418,
+    "category": "ielts",
+    "english": "Turnover",
+    "uzbek": "aylanma",
+    "example_en": "This word is often used in IELTS: Turnover.",
+    "example_uz": "Bu so'z \"aylanma\" degani."
+  },
+  {
+    "id": 419,
+    "category": "ielts",
+    "english": "Wealthy",
+    "uzbek": "boy",
+    "example_en": "This word is often used in IELTS: Wealthy.",
+    "example_uz": "Bu so'z \"boy\" degani."
+  },
+  {
+    "id": 420,
+    "category": "ielts",
+    "english": "Acquaintance",
+    "uzbek": "tanish",
+    "example_en": "This word is often used in IELTS: Acquaintance.",
+    "example_uz": "Bu so'z \"tanish\" degani."
+  },
+  {
+    "id": 421,
+    "category": "ielts",
+    "english": "Adolescent",
+    "uzbek": "yosh; o'smir",
+    "example_en": "This word is often used in IELTS: Adolescent.",
+    "example_uz": "Bu so'z \"yosh; o'smir\" degani."
+  },
+  {
+    "id": 422,
+    "category": "ielts",
+    "english": "Apparently",
+    "uzbek": "aniq; ko'rinishiga qaraganda",
+    "example_en": "This word is often used in IELTS: Apparently.",
+    "example_uz": "Bu so'z \"aniq; ko'rinishiga qaraganda\" degani."
+  },
+  {
+    "id": 423,
+    "category": "ielts",
+    "english": "Carry out",
+    "uzbek": "amalga oshirmoq",
+    "example_en": "This word is often used in IELTS: Carry out.",
+    "example_uz": "Bu so'z \"amalga oshirmoq\" degani."
+  },
+  {
+    "id": 424,
+    "category": "ielts",
+    "english": "Community",
+    "uzbek": "jamoa; jamiyat",
+    "example_en": "This word is often used in IELTS: Community.",
+    "example_uz": "Bu so'z \"jamoa; jamiyat\" degani."
+  },
+  {
+    "id": 425,
+    "category": "ielts",
+    "english": "Consequence",
+    "uzbek": "oqibat; natija",
+    "example_en": "This word is often used in IELTS: Consequence.",
+    "example_uz": "Bu so'z \"oqibat; natija\" degani."
+  },
+  {
+    "id": 426,
+    "category": "ielts",
+    "english": "Contact",
+    "uzbek": "aloqa; bog'lanish",
+    "example_en": "This word is often used in IELTS: Contact.",
+    "example_uz": "Bu so'z \"aloqa; bog'lanish\" degani."
+  },
+  {
+    "id": 427,
+    "category": "ielts",
+    "english": "Eradicate",
+    "uzbek": "yo'q qilmoq",
+    "example_en": "This word is often used in IELTS: Eradicate.",
+    "example_uz": "Bu so'z \"yo'q qilmoq\" degani."
+  },
+  {
+    "id": 428,
+    "category": "ielts",
+    "english": "Exchange",
+    "uzbek": "almashmoq",
+    "example_en": "This word is often used in IELTS: Exchange.",
+    "example_uz": "Bu so'z \"almashmoq\" degani."
+  },
+  {
+    "id": 429,
+    "category": "ielts",
+    "english": "Explore",
+    "uzbek": "tadqiq qilmoq",
+    "example_en": "This word is often used in IELTS: Explore.",
+    "example_uz": "Bu so'z \"tadqiq qilmoq\" degani."
+  },
+  {
+    "id": 430,
+    "category": "ielts",
+    "english": "Immense",
+    "uzbek": "ulkan; juda katta",
+    "example_en": "This word is often used in IELTS: Immense.",
+    "example_uz": "Bu so'z \"ulkan; juda katta\" degani."
+  },
+  {
+    "id": 431,
+    "category": "ielts",
+    "english": "Impose",
+    "uzbek": "majburan qabul qildirmoq",
+    "example_en": "This word is often used in IELTS: Impose.",
+    "example_uz": "Bu so'z \"majburan qabul qildirmoq\" degani."
+  },
+  {
+    "id": 432,
+    "category": "ielts",
+    "english": "Interact",
+    "uzbek": "o'zaro ta'sir qilmoq",
+    "example_en": "This word is often used in IELTS: Interact.",
+    "example_uz": "Bu so'z \"o'zaro ta'sir qilmoq\" degani."
+  },
+  {
+    "id": 433,
+    "category": "ielts",
+    "english": "Post",
+    "uzbek": "e'lon qilmoq",
+    "example_en": "This word is often used in IELTS: Post.",
+    "example_uz": "Bu so'z \"e'lon qilmoq\" degani."
+  },
+  {
+    "id": 434,
+    "category": "ielts",
+    "english": "Pursue",
+    "uzbek": "ta'qib qilmoq; ketidan quvmoq",
+    "example_en": "This word is often used in IELTS: Pursue.",
+    "example_uz": "Bu so'z \"ta'qib qilmoq; ketidan quvmoq\" degani."
+  },
+  {
+    "id": 435,
+    "category": "ielts",
+    "english": "Statistics",
+    "uzbek": "statistika",
+    "example_en": "This word is often used in IELTS: Statistics.",
+    "example_uz": "Bu so'z \"statistika\" degani."
+  },
+  {
+    "id": 436,
+    "category": "ielts",
+    "english": "Susceptible",
+    "uzbek": "ta'sirlanuvchan",
+    "example_en": "This word is often used in IELTS: Susceptible.",
+    "example_uz": "Bu so'z \"ta'sirlanuvchan\" degani."
+  },
+  {
+    "id": 437,
+    "category": "ielts",
+    "english": "Trend",
+    "uzbek": "yo'nalish; tendensiya",
+    "example_en": "This word is often used in IELTS: Trend.",
+    "example_uz": "Bu so'z \"yo'nalish; tendensiya\" degani."
+  },
+  {
+    "id": 438,
+    "category": "ielts",
+    "english": "Undergo",
+    "uzbek": "boshidan o'tkazmoq",
+    "example_en": "This word is often used in IELTS: Undergo.",
+    "example_uz": "Bu so'z \"boshidan o'tkazmoq\" degani."
+  },
+  {
+    "id": 439,
+    "category": "ielts",
+    "english": "Unfold",
+    "uzbek": "ayon bo'lmoq; ochilmoq",
+    "example_en": "This word is often used in IELTS: Unfold.",
+    "example_uz": "Bu so'z \"ayon bo'lmoq; ochilmoq\" degani."
+  },
+  {
+    "id": 440,
+    "category": "ielts",
+    "english": "Absence",
+    "uzbek": "yo'qlik",
+    "example_en": "This word is often used in IELTS: Absence.",
+    "example_uz": "Bu so'z \"yo'qlik\" degani."
+  },
+  {
+    "id": 441,
+    "category": "ielts",
+    "english": "Academic",
+    "uzbek": "ilmiy; akademik",
+    "example_en": "This word is often used in IELTS: Academic.",
+    "example_uz": "Bu so'z \"ilmiy; akademik\" degani."
+  },
+  {
+    "id": 442,
+    "category": "ielts",
+    "english": "Approximately",
+    "uzbek": "taxminan",
+    "example_en": "This word is often used in IELTS: Approximately.",
+    "example_uz": "Bu so'z \"taxminan\" degani."
+  },
+  {
+    "id": 443,
+    "category": "ielts",
+    "english": "Bear",
+    "uzbek": "ko'tarib yurmoq; ko'tarmoq",
+    "example_en": "This word is often used in IELTS: Bear.",
+    "example_uz": "Bu so'z \"ko'tarib yurmoq; ko'tarmoq\" degani."
+  },
+  {
+    "id": 444,
+    "category": "ielts",
+    "english": "Commensurate",
+    "uzbek": "mos keladigan",
+    "example_en": "This word is often used in IELTS: Commensurate.",
+    "example_uz": "Bu so'z \"mos keladigan\" degani."
+  },
+  {
+    "id": 445,
+    "category": "ielts",
+    "english": "Devote",
+    "uzbek": "bag'ishlamoq",
+    "example_en": "This word is often used in IELTS: Devote.",
+    "example_uz": "Bu so'z \"bag'ishlamoq\" degani."
+  },
+  {
+    "id": 446,
+    "category": "ielts",
+    "english": "Dire",
+    "uzbek": "dahshatli",
+    "example_en": "This word is often used in IELTS: Dire.",
+    "example_uz": "Bu so'z \"dahshatli\" degani."
+  },
+  {
+    "id": 447,
+    "category": "ielts",
+    "english": "Discrepancy",
+    "uzbek": "farq",
+    "example_en": "This word is often used in IELTS: Discrepancy.",
+    "example_uz": "Bu so'z \"farq\" degani."
+  },
+  {
+    "id": 448,
+    "category": "ielts",
+    "english": "Equality",
+    "uzbek": "tenglik",
+    "example_en": "This word is often used in IELTS: Equality.",
+    "example_uz": "Bu so'z \"tenglik\" degani."
+  },
+  {
+    "id": 449,
+    "category": "ielts",
+    "english": "Frustration",
+    "uzbek": "xafachilik; barbod bo'lish",
+    "example_en": "This word is often used in IELTS: Frustration.",
+    "example_uz": "Bu so'z \"xafachilik; barbod bo'lish\" degani."
+  },
+  {
+    "id": 450,
+    "category": "ielts",
+    "english": "Funding",
+    "uzbek": "moliyalashtirish",
+    "example_en": "This word is often used in IELTS: Funding.",
+    "example_uz": "Bu so'z \"moliyalashtirish\" degani."
+  },
+  {
+    "id": 451,
+    "category": "ielts",
+    "english": "Guidance",
+    "uzbek": "rahbarlik; yo'l-yo'riq",
+    "example_en": "This word is often used in IELTS: Guidance.",
+    "example_uz": "Bu so'z \"rahbarlik; yo'l-yo'riq\" degani."
+  },
+  {
+    "id": 452,
+    "category": "ielts",
+    "english": "Inordinate",
+    "uzbek": "ortiq darajadagi",
+    "example_en": "This word is often used in IELTS: Inordinate.",
+    "example_uz": "Bu so'z \"ortiq darajadagi\" degani."
+  },
+  {
+    "id": 453,
+    "category": "ielts",
+    "english": "Invaluable",
+    "uzbek": "bebaho",
+    "example_en": "This word is often used in IELTS: Invaluable.",
+    "example_uz": "Bu so'z \"bebaho\" degani."
+  },
+  {
+    "id": 454,
+    "category": "ielts",
+    "english": "Mentor",
+    "uzbek": "ustoz; murabbiy",
+    "example_en": "This word is often used in IELTS: Mentor.",
+    "example_uz": "Bu so'z \"ustoz; murabbiy\" degani."
+  },
+  {
+    "id": 455,
+    "category": "ielts",
+    "english": "Persist",
+    "uzbek": "qattiq turib olmoq",
+    "example_en": "This word is often used in IELTS: Persist.",
+    "example_uz": "Bu so'z \"qattiq turib olmoq\" degani."
+  },
+  {
+    "id": 456,
+    "category": "ielts",
+    "english": "Pressure",
+    "uzbek": "bosim",
+    "example_en": "This word is often used in IELTS: Pressure.",
+    "example_uz": "Bu so'z \"bosim\" degani."
+  },
+  {
+    "id": 457,
+    "category": "ielts",
+    "english": "Progress",
+    "uzbek": "taraqqiyot; rivojlanish",
+    "example_en": "This word is often used in IELTS: Progress.",
+    "example_uz": "Bu so'z \"taraqqiyot; rivojlanish\" degani."
+  },
+  {
+    "id": 458,
+    "category": "ielts",
+    "english": "Struggle",
+    "uzbek": "kurashmoq; intilish",
+    "example_en": "This word is often used in IELTS: Struggle.",
+    "example_uz": "Bu so'z \"kurashmoq; intilish\" degani."
+  },
+  {
+    "id": 459,
+    "category": "ielts",
+    "english": "Validate",
+    "uzbek": "tasdiqlamoq",
+    "example_en": "This word is often used in IELTS: Validate.",
+    "example_uz": "Bu so'z \"tasdiqlamoq\" degani."
+  },
+  {
+    "id": 460,
+    "category": "ielts",
+    "english": "Abound",
+    "uzbek": "mo'l-ko'l bo'lmoq",
+    "example_en": "This word is often used in IELTS: Abound.",
+    "example_uz": "Bu so'z \"mo'l-ko'l bo'lmoq\" degani."
+  },
+  {
+    "id": 461,
+    "category": "ielts",
+    "english": "Account for",
+    "uzbek": "…ni tashkil qilmoq",
+    "example_en": "This word is often used in IELTS: Account for.",
+    "example_uz": "Bu so'z \"…ni tashkil qilmoq\" degani."
+  },
+  {
+    "id": 462,
+    "category": "ielts",
+    "english": "Capable",
+    "uzbek": "qodir; yaroqli",
+    "example_en": "This word is often used in IELTS: Capable.",
+    "example_uz": "Bu so'z \"qodir; yaroqli\" degani."
+  },
+  {
+    "id": 463,
+    "category": "ielts",
+    "english": "Compact",
+    "uzbek": "ixcham",
+    "example_en": "This word is often used in IELTS: Compact.",
+    "example_uz": "Bu so'z \"ixcham\" degani."
+  },
+  {
+    "id": 464,
+    "category": "ielts",
+    "english": "Corridor",
+    "uzbek": "koridor; yo'lak",
+    "example_en": "This word is often used in IELTS: Corridor.",
+    "example_uz": "Bu so'z \"koridor; yo'lak\" degani."
+  },
+  {
+    "id": 465,
+    "category": "ielts",
+    "english": "Kerb",
+    "uzbek": "yo'l cheti",
+    "example_en": "This word is often used in IELTS: Kerb.",
+    "example_uz": "Bu so'z \"yo'l cheti\" degani."
+  },
+  {
+    "id": 466,
+    "category": "ielts",
+    "english": "Disability",
+    "uzbek": "nogironlik; mehnatga layoqatsizlik",
+    "example_en": "This word is often used in IELTS: Disability.",
+    "example_uz": "Bu so'z \"nogironlik; mehnatga layoqatsizlik\" degani."
+  },
+  {
+    "id": 467,
+    "category": "ielts",
+    "english": "Exterior",
+    "uzbek": "tashqi",
+    "example_en": "This word is often used in IELTS: Exterior.",
+    "example_uz": "Bu so'z \"tashqi\" degani."
+  },
+  {
+    "id": 468,
+    "category": "ielts",
+    "english": "Incapacitated",
+    "uzbek": "mehnatga layoqatsiz",
+    "example_en": "This word is often used in IELTS: Incapacitated.",
+    "example_uz": "Bu so'z \"mehnatga layoqatsiz\" degani."
+  },
+  {
+    "id": 469,
+    "category": "ielts",
+    "english": "Interior",
+    "uzbek": "ichki tomoni",
+    "example_en": "This word is often used in IELTS: Interior.",
+    "example_uz": "Bu so'z \"ichki tomoni\" degani."
+  },
+  {
+    "id": 470,
+    "category": "ielts",
+    "english": "Necessitate",
+    "uzbek": "majbur qilmoq",
+    "example_en": "This word is often used in IELTS: Necessitate.",
+    "example_uz": "Bu so'z \"majbur qilmoq\" degani."
+  },
+  {
+    "id": 471,
+    "category": "ielts",
+    "english": "Poverty",
+    "uzbek": "kambag'allik",
+    "example_en": "This word is often used in IELTS: Poverty.",
+    "example_uz": "Bu so'z \"kambag'allik\" degani."
+  },
+  {
+    "id": 472,
+    "category": "ielts",
+    "english": "Ramp",
+    "uzbek": "qiyalik",
+    "example_en": "This word is often used in IELTS: Ramp.",
+    "example_uz": "Bu so'z \"qiyalik\" degani."
+  },
+  {
+    "id": 473,
+    "category": "ielts",
+    "english": "Recreation",
+    "uzbek": "xordiq; dam olish",
+    "example_en": "This word is often used in IELTS: Recreation.",
+    "example_uz": "Bu so'z \"xordiq; dam olish\" degani."
+  },
+  {
+    "id": 474,
+    "category": "ielts",
+    "english": "Slippery",
+    "uzbek": "sirpanchiq",
+    "example_en": "This word is often used in IELTS: Slippery.",
+    "example_uz": "Bu so'z \"sirpanchiq\" degani."
+  },
+  {
+    "id": 475,
+    "category": "ielts",
+    "english": "Slope",
+    "uzbek": "qiyalik",
+    "example_en": "This word is often used in IELTS: Slope.",
+    "example_uz": "Bu so'z \"qiyalik\" degani."
+  },
+  {
+    "id": 476,
+    "category": "ielts",
+    "english": "Switch",
+    "uzbek": "o'zgartirmoq; o'chirmoq",
+    "example_en": "This word is often used in IELTS: Switch.",
+    "example_uz": "Bu so'z \"o'zgartirmoq; o'chirmoq\" degani."
+  },
+  {
+    "id": 477,
+    "category": "ielts",
+    "english": "Terrain",
+    "uzbek": "maydon; yer",
+    "example_en": "This word is often used in IELTS: Terrain.",
+    "example_uz": "Bu so'z \"maydon; yer\" degani."
+  },
+  {
+    "id": 478,
+    "category": "ielts",
+    "english": "Unwieldy",
+    "uzbek": "katta; beso'naqay",
+    "example_en": "This word is often used in IELTS: Unwieldy.",
+    "example_uz": "Bu so'z \"katta; beso'naqay\" degani."
+  },
+  {
+    "id": 479,
+    "category": "ielts",
+    "english": "Update",
+    "uzbek": "yangilamoq; to'ldirmoq",
+    "example_en": "This word is often used in IELTS: Update.",
+    "example_uz": "Bu so'z \"yangilamoq; to'ldirmoq\" degani."
+  },
+  {
+    "id": 480,
+    "category": "ielts",
+    "english": "Approach",
+    "uzbek": "yondoshuv",
+    "example_en": "This word is often used in IELTS: Approach.",
+    "example_uz": "Bu so'z \"yondoshuv\" degani."
+  },
+  {
+    "id": 481,
+    "category": "ielts",
+    "english": "Auditory",
+    "uzbek": "eshitishga oid",
+    "example_en": "This word is often used in IELTS: Auditory.",
+    "example_uz": "Bu so'z \"eshitishga oid\" degani."
+  },
+  {
+    "id": 482,
+    "category": "ielts",
+    "english": "Blend",
+    "uzbek": "aralashtirmoq",
+    "example_en": "This word is often used in IELTS: Blend.",
+    "example_uz": "Bu so'z \"aralashtirmoq\" degani."
+  },
+  {
+    "id": 483,
+    "category": "ielts",
+    "english": "Circumstance",
+    "uzbek": "vaziyat; holat",
+    "example_en": "This word is often used in IELTS: Circumstance.",
+    "example_uz": "Bu so'z \"vaziyat; holat\" degani."
+  },
+  {
+    "id": 484,
+    "category": "ielts",
+    "english": "Confidence",
+    "uzbek": "o'ziga ishonch",
+    "example_en": "This word is often used in IELTS: Confidence.",
+    "example_uz": "Bu so'z \"o'ziga ishonch\" degani."
+  },
+  {
+    "id": 485,
+    "category": "ielts",
+    "english": "Conventional",
+    "uzbek": "an'anaviy",
+    "example_en": "This word is often used in IELTS: Conventional.",
+    "example_uz": "Bu so'z \"an'anaviy\" degani."
+  },
+  {
+    "id": 486,
+    "category": "ielts",
+    "english": "Diagram",
+    "uzbek": "diagramma; sxema",
+    "example_en": "This word is often used in IELTS: Diagram.",
+    "example_uz": "Bu so'z \"diagramma; sxema\" degani."
+  },
+  {
+    "id": 487,
+    "category": "ielts",
+    "english": "Dominate",
+    "uzbek": "ustunlik qilmoq",
+    "example_en": "This word is often used in IELTS: Dominate.",
+    "example_uz": "Bu so'z \"ustunlik qilmoq\" degani."
+  },
+  {
+    "id": 488,
+    "category": "ielts",
+    "english": "Encouragement",
+    "uzbek": "rag'batlantirish",
+    "example_en": "This word is often used in IELTS: Encouragement.",
+    "example_uz": "Bu so'z \"rag'batlantirish\" degani."
+  },
+  {
+    "id": 489,
+    "category": "ielts",
+    "english": "Expose",
+    "uzbek": "ko'rsatmoq; fosh qilmoq",
+    "example_en": "This word is often used in IELTS: Expose.",
+    "example_uz": "Bu so'z \"ko'rsatmoq; fosh qilmoq\" degani."
+  },
+  {
+    "id": 490,
+    "category": "ielts",
+    "english": "Facial",
+    "uzbek": "yuzga oid",
+    "example_en": "This word is often used in IELTS: Facial.",
+    "example_uz": "Bu so'z \"yuzga oid\" degani."
+  },
+  {
+    "id": 491,
+    "category": "ielts",
+    "english": "Fidget",
+    "uzbek": "xavotir; bezovtalik",
+    "example_en": "This word is often used in IELTS: Fidget.",
+    "example_uz": "Bu so'z \"xavotir; bezovtalik\" degani."
+  },
+  {
+    "id": 492,
+    "category": "ielts",
+    "english": "Hinder",
+    "uzbek": "halal bermoq",
+    "example_en": "This word is often used in IELTS: Hinder.",
+    "example_uz": "Bu so'z \"halal bermoq\" degani."
+  },
+  {
+    "id": 493,
+    "category": "ielts",
+    "english": "Incorporate",
+    "uzbek": "birlashgan",
+    "example_en": "This word is often used in IELTS: Incorporate.",
+    "example_uz": "Bu so'z \"birlashgan\" degani."
+  },
+  {
+    "id": 494,
+    "category": "ielts",
+    "english": "Kinaesthetic",
+    "uzbek": "kinestetik",
+    "example_en": "This word is often used in IELTS: Kinaesthetic.",
+    "example_uz": "Bu so'z \"kinestetik\" degani."
+  },
+  {
+    "id": 495,
+    "category": "ielts",
+    "english": "Manipulate",
+    "uzbek": "mohirona ishlov bermoq",
+    "example_en": "This word is often used in IELTS: Manipulate.",
+    "example_uz": "Bu so'z \"mohirona ishlov bermoq\" degani."
+  },
+  {
+    "id": 496,
+    "category": "ielts",
+    "english": "Obstruction",
+    "uzbek": "to'sqinlik; g'ov",
+    "example_en": "This word is often used in IELTS: Obstruction.",
+    "example_uz": "Bu so'z \"to'sqinlik; g'ov\" degani."
+  },
+  {
+    "id": 497,
+    "category": "ielts",
+    "english": "Recite",
+    "uzbek": "yoddan aytmoq",
+    "example_en": "This word is often used in IELTS: Recite.",
+    "example_uz": "Bu so'z \"yoddan aytmoq\" degani."
+  },
+  {
+    "id": 498,
+    "category": "ielts",
+    "english": "Solitary",
+    "uzbek": "yolg'iz; tanho",
+    "example_en": "This word is often used in IELTS: Solitary.",
+    "example_uz": "Bu so'z \"yolg'iz; tanho\" degani."
+  },
+  {
+    "id": 499,
+    "category": "ielts",
+    "english": "Verbal",
+    "uzbek": "og'zaki",
+    "example_en": "This word is often used in IELTS: Verbal.",
+    "example_uz": "Bu so'z \"og'zaki\" degani."
+  },
+  {
+    "id": 500,
+    "category": "ielts",
+    "english": "Address",
+    "uzbek": "murojaat qilmoq",
+    "example_en": "This word is often used in IELTS: Address.",
+    "example_uz": "Bu so'z \"murojaat qilmoq\" degani."
+  },
+  {
+    "id": 501,
+    "category": "ielts",
+    "english": "Adequately",
+    "uzbek": "yetarli darajada",
+    "example_en": "This word is often used in IELTS: Adequately.",
+    "example_uz": "Bu so'z \"yetarli darajada\" degani."
+  },
+  {
+    "id": 502,
+    "category": "ielts",
+    "english": "Alternative",
+    "uzbek": "muqobil",
+    "example_en": "This word is often used in IELTS: Alternative.",
+    "example_uz": "Bu so'z \"muqobil\" degani."
+  },
+  {
+    "id": 503,
+    "category": "ielts",
+    "english": "Compulsory",
+    "uzbek": "majburiy",
+    "example_en": "This word is often used in IELTS: Compulsory.",
+    "example_uz": "Bu so'z \"majburiy\" degani."
+  },
+  {
+    "id": 504,
+    "category": "ielts",
+    "english": "Concerned",
+    "uzbek": "xavotirlangan",
+    "example_en": "This word is often used in IELTS: Concerned.",
+    "example_uz": "Bu so'z \"xavotirlangan\" degani."
+  },
+  {
+    "id": 505,
+    "category": "ielts",
+    "english": "Dissatisfied",
+    "uzbek": "qoniqmagan",
+    "example_en": "This word is often used in IELTS: Dissatisfied.",
+    "example_uz": "Bu so'z \"qoniqmagan\" degani."
+  },
+  {
+    "id": 506,
+    "category": "ielts",
+    "english": "Exceptional",
+    "uzbek": "noodatiy; istisno",
+    "example_en": "This word is often used in IELTS: Exceptional.",
+    "example_uz": "Bu so'z \"noodatiy; istisno\" degani."
+  },
+  {
+    "id": 507,
+    "category": "ielts",
+    "english": "Instruction",
+    "uzbek": "yo'llanma; qoida",
+    "example_en": "This word is often used in IELTS: Instruction.",
+    "example_uz": "Bu so'z \"yo'llanma; qoida\" degani."
+  },
+  {
+    "id": 508,
+    "category": "ielts",
+    "english": "Latter",
+    "uzbek": "oxirgisi",
+    "example_en": "This word is often used in IELTS: Latter.",
+    "example_uz": "Bu so'z \"oxirgisi\" degani."
+  },
+  {
+    "id": 509,
+    "category": "ielts",
+    "english": "Majority",
+    "uzbek": "ko'pchilik",
+    "example_en": "This word is often used in IELTS: Majority.",
+    "example_uz": "Bu so'z \"ko'pchilik\" degani."
+  },
+  {
+    "id": 510,
+    "category": "ielts",
+    "english": "Mandate",
+    "uzbek": "vakolat; boshqarish huquqi",
+    "example_en": "This word is often used in IELTS: Mandate.",
+    "example_uz": "Bu so'z \"vakolat; boshqarish huquqi\" degani."
+  },
+  {
+    "id": 511,
+    "category": "ielts",
+    "english": "Novel",
+    "uzbek": "yangi va o'zgacha",
+    "example_en": "This word is often used in IELTS: Novel.",
+    "example_uz": "Bu so'z \"yangi va o'zgacha\" degani."
+  },
+  {
+    "id": 512,
+    "category": "ielts",
+    "english": "Obligatory",
+    "uzbek": "majburiy",
+    "example_en": "This word is often used in IELTS: Obligatory.",
+    "example_uz": "Bu so'z \"majburiy\" degani."
+  },
+  {
+    "id": 513,
+    "category": "ielts",
+    "english": "Periodic",
+    "uzbek": "davriy",
+    "example_en": "This word is often used in IELTS: Periodic.",
+    "example_uz": "Bu so'z \"davriy\" degani."
+  },
+  {
+    "id": 514,
+    "category": "ielts",
+    "english": "Philosophy",
+    "uzbek": "falsafa",
+    "example_en": "This word is often used in IELTS: Philosophy.",
+    "example_uz": "Bu so'z \"falsafa\" degani."
+  },
+  {
+    "id": 515,
+    "category": "ielts",
+    "english": "Prior",
+    "uzbek": "ilgari; oldingi",
+    "example_en": "This word is often used in IELTS: Prior.",
+    "example_uz": "Bu so'z \"ilgari; oldingi\" degani."
+  },
+  {
+    "id": 516,
+    "category": "ielts",
+    "english": "Relatively",
+    "uzbek": "nisbatan",
+    "example_en": "This word is often used in IELTS: Relatively.",
+    "example_uz": "Bu so'z \"nisbatan\" degani."
+  },
+  {
+    "id": 517,
+    "category": "ielts",
+    "english": "Tutor",
+    "uzbek": "domla; yo'l-yo'riq beruvchi",
+    "example_en": "This word is often used in IELTS: Tutor.",
+    "example_uz": "Bu so'z \"domla; yo'l-yo'riq beruvchi\" degani."
+  },
+  {
+    "id": 518,
+    "category": "ielts",
+    "english": "Vast",
+    "uzbek": "ulkan",
+    "example_en": "This word is often used in IELTS: Vast.",
+    "example_uz": "Bu so'z \"ulkan\" degani."
+  },
+  {
+    "id": 519,
+    "category": "ielts",
+    "english": "Widespread",
+    "uzbek": "keng tarqalgan",
+    "example_en": "This word is often used in IELTS: Widespread.",
+    "example_uz": "Bu so'z \"keng tarqalgan\" degani."
+  },
+  {
+    "id": 520,
+    "category": "ielts",
+    "english": "Assess",
+    "uzbek": "baholamoq",
+    "example_en": "This word is often used in IELTS: Assess.",
+    "example_uz": "Bu so'z \"baholamoq\" degani."
+  },
+  {
+    "id": 521,
+    "category": "ielts",
+    "english": "Constructive",
+    "uzbek": "ijodiy; quruvchi",
+    "example_en": "This word is often used in IELTS: Constructive.",
+    "example_uz": "Bu so'z \"ijodiy; quruvchi\" degani."
+  },
+  {
+    "id": 522,
+    "category": "ielts",
+    "english": "Curriculum",
+    "uzbek": "o'quv rejasi",
+    "example_en": "This word is often used in IELTS: Curriculum.",
+    "example_uz": "Bu so'z \"o'quv rejasi\" degani."
+  },
+  {
+    "id": 523,
+    "category": "ielts",
+    "english": "Dedicate",
+    "uzbek": "bag'ishlamoq",
+    "example_en": "This word is often used in IELTS: Dedicate.",
+    "example_uz": "Bu so'z \"bag'ishlamoq\" degani."
+  },
+  {
+    "id": 524,
+    "category": "ielts",
+    "english": "Discipline",
+    "uzbek": "tartib",
+    "example_en": "This word is often used in IELTS: Discipline.",
+    "example_uz": "Bu so'z \"tartib\" degani."
+  },
+  {
+    "id": 525,
+    "category": "ielts",
+    "english": "Enriched",
+    "uzbek": "boyitilgan",
+    "example_en": "This word is often used in IELTS: Enriched.",
+    "example_uz": "Bu so'z \"boyitilgan\" degani."
+  },
+  {
+    "id": 526,
+    "category": "ielts",
+    "english": "Extraordinary",
+    "uzbek": "g'ayrioddiy",
+    "example_en": "This word is often used in IELTS: Extraordinary.",
+    "example_uz": "Bu so'z \"g'ayrioddiy\" degani."
+  },
+  {
+    "id": 527,
+    "category": "ielts",
+    "english": "Gifted",
+    "uzbek": "qobiliyatli",
+    "example_en": "This word is often used in IELTS: Gifted.",
+    "example_uz": "Bu so'z \"qobiliyatli\" degani."
+  },
+  {
+    "id": 528,
+    "category": "ielts",
+    "english": "Inquisitiveness",
+    "uzbek": "qiziquvchanlik",
+    "example_en": "This word is often used in IELTS: Inquisitiveness.",
+    "example_uz": "Bu so'z \"qiziquvchanlik\" degani."
+  },
+  {
+    "id": 529,
+    "category": "ielts",
+    "english": "Interpretation",
+    "uzbek": "talqin; sharh",
+    "example_en": "This word is often used in IELTS: Interpretation.",
+    "example_uz": "Bu so'z \"talqin; sharh\" degani."
+  },
+  {
+    "id": 530,
+    "category": "ielts",
+    "english": "Moderately",
+    "uzbek": "o'rtacha; salgina",
+    "example_en": "This word is often used in IELTS: Moderately.",
+    "example_uz": "Bu so'z \"o'rtacha; salgina\" degani."
+  },
+  {
+    "id": 531,
+    "category": "ielts",
+    "english": "Peer",
+    "uzbek": "tengdosh",
+    "example_en": "This word is often used in IELTS: Peer.",
+    "example_uz": "Bu so'z \"tengdosh\" degani."
+  },
+  {
+    "id": 532,
+    "category": "ielts",
+    "english": "Profoundly",
+    "uzbek": "o'ta; juda",
+    "example_en": "This word is often used in IELTS: Profoundly.",
+    "example_uz": "Bu so'z \"o'ta; juda\" degani."
+  },
+  {
+    "id": 533,
+    "category": "ielts",
+    "english": "Recognise",
+    "uzbek": "tan olmoq",
+    "example_en": "This word is often used in IELTS: Recognise.",
+    "example_uz": "Bu so'z \"tan olmoq\" degani."
+  },
+  {
+    "id": 534,
+    "category": "ielts",
+    "english": "Remedial",
+    "uzbek": "shifobaxsh",
+    "example_en": "This word is often used in IELTS: Remedial.",
+    "example_uz": "Bu so'z \"shifobaxsh\" degani."
+  },
+  {
+    "id": 535,
+    "category": "ielts",
+    "english": "Simultaneous",
+    "uzbek": "bir vaqtda bo'ladigan",
+    "example_en": "This word is often used in IELTS: Simultaneous.",
+    "example_uz": "Bu so'z \"bir vaqtda bo'ladigan\" degani."
+  },
+  {
+    "id": 536,
+    "category": "ielts",
+    "english": "Sophisticated",
+    "uzbek": "nozik; nafis",
+    "example_en": "This word is often used in IELTS: Sophisticated.",
+    "example_uz": "Bu so'z \"nozik; nafis\" degani."
+  },
+  {
+    "id": 537,
+    "category": "ielts",
+    "english": "Transfer",
+    "uzbek": "o'tqazmoq; jo'natmoq",
+    "example_en": "This word is often used in IELTS: Transfer.",
+    "example_uz": "Bu so'z \"o'tqazmoq; jo'natmoq\" degani."
+  },
+  {
+    "id": 538,
+    "category": "ielts",
+    "english": "Turn into",
+    "uzbek": "…ga aylantirmoq",
+    "example_en": "This word is often used in IELTS: Turn into.",
+    "example_uz": "Bu so'z \"…ga aylantirmoq\" degani."
+  },
+  {
+    "id": 539,
+    "category": "ielts",
+    "english": "Withdrawal",
+    "uzbek": "chekinish; ortga qaytish",
+    "example_en": "This word is often used in IELTS: Withdrawal.",
+    "example_uz": "Bu so'z \"chekinish; ortga qaytish\" degani."
+  },
+  {
+    "id": 540,
+    "category": "ielts",
+    "english": "Back",
+    "uzbek": "bel; orqa",
+    "example_en": "This word is often used in IELTS: Back.",
+    "example_uz": "Bu so'z \"bel; orqa\" degani."
+  },
+  {
+    "id": 541,
+    "category": "ielts",
+    "english": "Clamp",
+    "uzbek": "qisqich; qismoq",
+    "example_en": "This word is often used in IELTS: Clamp.",
+    "example_uz": "Bu so'z \"qisqich; qismoq\" degani."
+  },
+  {
+    "id": 542,
+    "category": "ielts",
+    "english": "Critical",
+    "uzbek": "hal qiluvchi; tanqidiy",
+    "example_en": "This word is often used in IELTS: Critical.",
+    "example_uz": "Bu so'z \"hal qiluvchi; tanqidiy\" degani."
+  },
+  {
+    "id": 543,
+    "category": "ielts",
+    "english": "Current",
+    "uzbek": "hozirgi; joriy",
+    "example_en": "This word is often used in IELTS: Current.",
+    "example_uz": "Bu so'z \"hozirgi; joriy\" degani."
+  },
+  {
+    "id": 544,
+    "category": "ielts",
+    "english": "Derive",
+    "uzbek": "ajratib olmoq; hosil qilmoq",
+    "example_en": "This word is often used in IELTS: Derive.",
+    "example_uz": "Bu so'z \"ajratib olmoq; hosil qilmoq\" degani."
+  },
+  {
+    "id": 545,
+    "category": "ielts",
+    "english": "Device",
+    "uzbek": "moslama",
+    "example_en": "This word is often used in IELTS: Device.",
+    "example_uz": "Bu so'z \"moslama\" degani."
+  },
+  {
+    "id": 546,
+    "category": "ielts",
+    "english": "Entrepreneur",
+    "uzbek": "tadbirkor",
+    "example_en": "This word is often used in IELTS: Entrepreneur.",
+    "example_uz": "Bu so'z \"tadbirkor\" degani."
+  },
+  {
+    "id": 547,
+    "category": "ielts",
+    "english": "File",
+    "uzbek": "hujjatni ro'yxatga olish",
+    "example_en": "This word is often used in IELTS: File.",
+    "example_uz": "Bu so'z \"hujjatni ro'yxatga olish\" degani."
+  },
+  {
+    "id": 548,
+    "category": "ielts",
+    "english": "Infringement",
+    "uzbek": "buzish",
+    "example_en": "This word is often used in IELTS: Infringement.",
+    "example_uz": "Bu so'z \"buzish\" degani."
+  },
+  {
+    "id": 549,
+    "category": "ielts",
+    "english": "Inspiration",
+    "uzbek": "ilhomlanish",
+    "example_en": "This word is often used in IELTS: Inspiration.",
+    "example_uz": "Bu so'z \"ilhomlanish\" degani."
+  },
+  {
+    "id": 550,
+    "category": "ielts",
+    "english": "Invalid",
+    "uzbek": "nogiron; yaroqsiz",
+    "example_en": "This word is often used in IELTS: Invalid.",
+    "example_uz": "Bu so'z \"nogiron; yaroqsiz\" degani."
+  },
+  {
+    "id": 551,
+    "category": "ielts",
+    "english": "Inventor",
+    "uzbek": "ixtirochi",
+    "example_en": "This word is often used in IELTS: Inventor.",
+    "example_uz": "Bu so'z \"ixtirochi\" degani."
+  },
+  {
+    "id": 552,
+    "category": "ielts",
+    "english": "Investor",
+    "uzbek": "investor; pul tikuvchi",
+    "example_en": "This word is often used in IELTS: Investor.",
+    "example_uz": "Bu so'z \"investor; pul tikuvchi\" degani."
+  },
+  {
+    "id": 553,
+    "category": "ielts",
+    "english": "Patent",
+    "uzbek": "patent",
+    "example_en": "This word is often used in IELTS: Patent.",
+    "example_uz": "Bu so'z \"patent\" degani."
+  },
+  {
+    "id": 554,
+    "category": "ielts",
+    "english": "Ransack",
+    "uzbek": "qidirmoq; axtarmoq",
+    "example_en": "This word is often used in IELTS: Ransack.",
+    "example_uz": "Bu so'z \"qidirmoq; axtarmoq\" degani."
+  },
+  {
+    "id": 555,
+    "category": "ielts",
+    "english": "Refinement",
+    "uzbek": "tozalanish; yaxshilanish",
+    "example_en": "This word is often used in IELTS: Refinement.",
+    "example_uz": "Bu so'z \"tozalanish; yaxshilanish\" degani."
+  },
+  {
+    "id": 556,
+    "category": "ielts",
+    "english": "Ruling",
+    "uzbek": "boshqaruv",
+    "example_en": "This word is often used in IELTS: Ruling.",
+    "example_uz": "Bu so'z \"boshqaruv\" degani."
+  },
+  {
+    "id": 557,
+    "category": "ielts",
+    "english": "Specifically",
+    "uzbek": "ayniqsa",
+    "example_en": "This word is often used in IELTS: Specifically.",
+    "example_uz": "Bu so'z \"ayniqsa\" degani."
+  },
+  {
+    "id": 558,
+    "category": "ielts",
+    "english": "Suitable",
+    "uzbek": "mos; munosib",
+    "example_en": "This word is often used in IELTS: Suitable.",
+    "example_uz": "Bu so'z \"mos; munosib\" degani."
+  },
+  {
+    "id": 559,
+    "category": "ielts",
+    "english": "Unveil",
+    "uzbek": "ochmoq",
+    "example_en": "This word is often used in IELTS: Unveil.",
+    "example_uz": "Bu so'z \"ochmoq\" degani."
+  },
+  {
+    "id": 560,
+    "category": "ielts",
+    "english": "Aviation",
+    "uzbek": "aviatsiya",
+    "example_en": "This word is often used in IELTS: Aviation.",
+    "example_uz": "Bu so'z \"aviatsiya\" degani."
+  },
+  {
+    "id": 561,
+    "category": "ielts",
+    "english": "Blade",
+    "uzbek": "pichoq tig'i; parrak",
+    "example_en": "This word is often used in IELTS: Blade.",
+    "example_uz": "Bu so'z \"pichoq tig'i; parrak\" degani."
+  },
+  {
+    "id": 562,
+    "category": "ielts",
+    "english": "Coarse",
+    "uzbek": "qo'pol",
+    "example_en": "This word is often used in IELTS: Coarse.",
+    "example_uz": "Bu so'z \"qo'pol\" degani."
+  },
+  {
+    "id": 563,
+    "category": "ielts",
+    "english": "Confer",
+    "uzbek": "maslahatlashmoq",
+    "example_en": "This word is often used in IELTS: Confer.",
+    "example_uz": "Bu so'z \"maslahatlashmoq\" degani."
+  },
+  {
+    "id": 564,
+    "category": "ielts",
+    "english": "Cruise",
+    "uzbek": "kruiz; dengiz sayohati",
+    "example_en": "This word is often used in IELTS: Cruise.",
+    "example_uz": "Bu so'z \"kruiz; dengiz sayohati\" degani."
+  },
+  {
+    "id": 565,
+    "category": "ielts",
+    "english": "Curiosity",
+    "uzbek": "qiziquvchanlik",
+    "example_en": "This word is often used in IELTS: Curiosity.",
+    "example_uz": "Bu so'z \"qiziquvchanlik\" degani."
+  },
+  {
+    "id": 566,
+    "category": "ielts",
+    "english": "Design",
+    "uzbek": "dizayn",
+    "example_en": "This word is often used in IELTS: Design.",
+    "example_uz": "Bu so'z \"dizayn\" degani."
+  },
+  {
+    "id": 567,
+    "category": "ielts",
+    "english": "Enthusiast",
+    "uzbek": "ishtiyoqmand",
+    "example_en": "This word is often used in IELTS: Enthusiast.",
+    "example_uz": "Bu so'z \"ishtiyoqmand\" degani."
+  },
+  {
+    "id": 568,
+    "category": "ielts",
+    "english": "Handle",
+    "uzbek": "uddalamoq",
+    "example_en": "This word is often used in IELTS: Handle.",
+    "example_uz": "Bu so'z \"uddalamoq\" degani."
+  },
+  {
+    "id": 569,
+    "category": "ielts",
+    "english": "Inflexibility",
+    "uzbek": "egilmaslik",
+    "example_en": "This word is often used in IELTS: Inflexibility.",
+    "example_uz": "Bu so'z \"egilmaslik\" degani."
+  },
+  {
+    "id": 570,
+    "category": "ielts",
+    "english": "Isolation",
+    "uzbek": "izolyatsiya",
+    "example_en": "This word is often used in IELTS: Isolation.",
+    "example_uz": "Bu so'z \"izolyatsiya\" degani."
+  },
+  {
+    "id": 571,
+    "category": "ielts",
+    "english": "Voltage",
+    "uzbek": "elektr kuchlanishi",
+    "example_en": "This word is often used in IELTS: Voltage.",
+    "example_uz": "Bu so'z \"elektr kuchlanishi\" degani."
+  },
+  {
+    "id": 572,
+    "category": "ielts",
+    "english": "Prolonged",
+    "uzbek": "cho'zilgan",
+    "example_en": "This word is often used in IELTS: Prolonged.",
+    "example_uz": "Bu so'z \"cho'zilgan\" degani."
+  },
+  {
+    "id": 573,
+    "category": "ielts",
+    "english": "Propeller",
+    "uzbek": "parrak; harakatlantirgich",
+    "example_en": "This word is often used in IELTS: Propeller.",
+    "example_uz": "Bu so'z \"parrak; harakatlantirgich\" degani."
+  },
+  {
+    "id": 574,
+    "category": "ielts",
+    "english": "Reliably",
+    "uzbek": "ishonchli tarzda",
+    "example_en": "This word is often used in IELTS: Reliably.",
+    "example_uz": "Bu so'z \"ishonchli tarzda\" degani."
+  },
+  {
+    "id": 575,
+    "category": "ielts",
+    "english": "Revolutionise",
+    "uzbek": "inqilobiy o'zgartirmoq",
+    "example_en": "This word is often used in IELTS: Revolutionise.",
+    "example_uz": "Bu so'z \"inqilobiy o'zgartirmoq\" degani."
+  },
+  {
+    "id": 576,
+    "category": "ielts",
+    "english": "Rotation",
+    "uzbek": "aylanish",
+    "example_en": "This word is often used in IELTS: Rotation.",
+    "example_uz": "Bu so'z \"aylanish\" degani."
+  },
+  {
+    "id": 577,
+    "category": "ielts",
+    "english": "Sustained",
+    "uzbek": "uzluksiz; barqaror",
+    "example_en": "This word is often used in IELTS: Sustained.",
+    "example_uz": "Bu so'z \"uzluksiz; barqaror\" degani."
+  },
+  {
+    "id": 578,
+    "category": "ielts",
+    "english": "Turbulence",
+    "uzbek": "shiddatlilik",
+    "example_en": "This word is often used in IELTS: Turbulence.",
+    "example_uz": "Bu so'z \"shiddatlilik\" degani."
+  },
+  {
+    "id": 579,
+    "category": "ielts",
+    "english": "Variable",
+    "uzbek": "o'zgaruvchan",
+    "example_en": "This word is often used in IELTS: Variable.",
+    "example_uz": "Bu so'z \"o'zgaruvchan\" degani."
+  },
+  {
+    "id": 580,
+    "category": "ielts",
+    "english": "Cable",
+    "uzbek": "kabel; tros",
+    "example_en": "This word is often used in IELTS: Cable.",
+    "example_uz": "Bu so'z \"kabel; tros\" degani."
+  },
+  {
+    "id": 581,
+    "category": "ielts",
+    "english": "Catastrophic",
+    "uzbek": "fojeali; halokatli",
+    "example_en": "This word is often used in IELTS: Catastrophic.",
+    "example_uz": "Bu so'z \"fojeali; halokatli\" degani."
+  },
+  {
+    "id": 582,
+    "category": "ielts",
+    "english": "Compensate",
+    "uzbek": "o'rnini qoplamoq",
+    "example_en": "This word is often used in IELTS: Compensate.",
+    "example_uz": "Bu so'z \"o'rnini qoplamoq\" degani."
+  },
+  {
+    "id": 583,
+    "category": "ielts",
+    "english": "Disparate",
+    "uzbek": "tubdan farq qiladigan",
+    "example_en": "This word is often used in IELTS: Disparate.",
+    "example_uz": "Bu so'z \"tubdan farq qiladigan\" degani."
+  },
+  {
+    "id": 584,
+    "category": "ielts",
+    "english": "Flaw",
+    "uzbek": "kamchilik; nuqson",
+    "example_en": "This word is often used in IELTS: Flaw.",
+    "example_uz": "Bu so'z \"kamchilik; nuqson\" degani."
+  },
+  {
+    "id": 585,
+    "category": "ielts",
+    "english": "Indispensable",
+    "uzbek": "zaruriy; muhim",
+    "example_en": "This word is often used in IELTS: Indispensable.",
+    "example_uz": "Bu so'z \"zaruriy; muhim\" degani."
+  },
+  {
+    "id": 586,
+    "category": "ielts",
+    "english": "Inexplicably",
+    "uzbek": "tushuntirib bo'lmaydigan darajada",
+    "example_en": "This word is often used in IELTS: Inexplicably.",
+    "example_uz": "Bu so'z \"tushuntirib bo'lmaydigan darajada\" degani."
+  },
+  {
+    "id": 587,
+    "category": "ielts",
+    "english": "Inquiry",
+    "uzbek": "rasmiy so'rov; tekshiruv",
+    "example_en": "This word is often used in IELTS: Inquiry.",
+    "example_uz": "Bu so'z \"rasmiy so'rov; tekshiruv\" degani."
+  },
+  {
+    "id": 588,
+    "category": "ielts",
+    "english": "Insulation",
+    "uzbek": "izolyatsiya; ajratib qo'yish",
+    "example_en": "This word is often used in IELTS: Insulation.",
+    "example_uz": "Bu so'z \"izolyatsiya; ajratib qo'yish\" degani."
+  },
+  {
+    "id": 589,
+    "category": "ielts",
+    "english": "Perseverance",
+    "uzbek": "qat'iyat; matonat",
+    "example_en": "This word is often used in IELTS: Perseverance.",
+    "example_uz": "Bu so'z \"qat'iyat; matonat\" degani."
+  },
+  {
+    "id": 590,
+    "category": "ielts",
+    "english": "Rally",
+    "uzbek": "miting; yig'ilish",
+    "example_en": "This word is often used in IELTS: Rally.",
+    "example_uz": "Bu so'z \"miting; yig'ilish\" degani."
+  },
+  {
+    "id": 591,
+    "category": "ielts",
+    "english": "Requisite",
+    "uzbek": "zarur; kerakli",
+    "example_en": "This word is often used in IELTS: Requisite.",
+    "example_uz": "Bu so'z \"zarur; kerakli\" degani."
+  },
+  {
+    "id": 592,
+    "category": "ielts",
+    "english": "Set out",
+    "uzbek": "ishni boshlamoq; yo'lga chiqmoq",
+    "example_en": "This word is often used in IELTS: Set out.",
+    "example_uz": "Bu so'z \"ishni boshlamoq; yo'lga chiqmoq\" degani."
+  },
+  {
+    "id": 593,
+    "category": "ielts",
+    "english": "Snap",
+    "uzbek": "qarsillatib yopmoq",
+    "example_en": "This word is often used in IELTS: Snap.",
+    "example_uz": "Bu so'z \"qarsillatib yopmoq\" degani."
+  },
+  {
+    "id": 594,
+    "category": "ielts",
+    "english": "Tow",
+    "uzbek": "shatakka olmoq",
+    "example_en": "This word is often used in IELTS: Tow.",
+    "example_uz": "Bu so'z \"shatakka olmoq\" degani."
+  },
+  {
+    "id": 595,
+    "category": "ielts",
+    "english": "Transmit",
+    "uzbek": "uzatmoq",
+    "example_en": "This word is often used in IELTS: Transmit.",
+    "example_uz": "Bu so'z \"uzatmoq\" degani."
+  },
+  {
+    "id": 596,
+    "category": "ielts",
+    "english": "Triumph",
+    "uzbek": "g'alaba; muvaffaqiyat",
+    "example_en": "This word is often used in IELTS: Triumph.",
+    "example_uz": "Bu so'z \"g'alaba; muvaffaqiyat\" degani."
+  },
+  {
+    "id": 597,
+    "category": "ielts",
+    "english": "Utterly",
+    "uzbek": "butkul; juda",
+    "example_en": "This word is often used in IELTS: Utterly.",
+    "example_uz": "Bu so'z \"butkul; juda\" degani."
+  },
+  {
+    "id": 598,
+    "category": "ielts",
+    "english": "Vilify",
+    "uzbek": "yomonlamoq; qoralamoq",
+    "example_en": "This word is often used in IELTS: Vilify.",
+    "example_uz": "Bu so'z \"yomonlamoq; qoralamoq\" degani."
+  },
+  {
+    "id": 599,
+    "category": "ielts",
+    "english": "Architecture",
+    "uzbek": "arxitektura; me'morchilik",
+    "example_en": "This word is often used in IELTS: Architecture.",
+    "example_uz": "Bu so'z \"arxitektura; me'morchilik\" degani."
+  },
+  {
+    "id": 600,
+    "category": "ielts",
+    "english": "Headquarters",
+    "uzbek": "bosh ofis; markaziy shtab",
+    "example_en": "This word is often used in IELTS: Headquarters.",
+    "example_uz": "Bu so'z \"bosh ofis; markaziy shtab\" degani."
+  },
+  {
+    "id": 601,
+    "category": "ielts",
+    "english": "Showcase",
+    "uzbek": "vitrina; namoyish oynasi",
+    "example_en": "This word is often used in IELTS: Showcase.",
+    "example_uz": "Bu so'z \"vitrina; namoyish oynasi\" degani."
+  },
+  {
+    "id": 602,
+    "category": "ielts",
+    "english": "Spring up",
+    "uzbek": "paydo bo'moq; yuzaga kelmoq",
+    "example_en": "This word is often used in IELTS: Spring up.",
+    "example_uz": "Bu so'z \"paydo bo'moq; yuzaga kelmoq\" degani."
+  },
+  {
+    "id": 603,
+    "category": "ielts",
+    "english": "Surface",
+    "uzbek": "yuza; sirt",
+    "example_en": "This word is often used in IELTS: Surface.",
+    "example_uz": "Bu so'z \"yuza; sirt\" degani."
+  },
+  {
+    "id": 604,
+    "category": "ielts",
+    "english": "Underground",
+    "uzbek": "yerosti; yer ostida joylashgan",
+    "example_en": "This word is often used in IELTS: Underground.",
+    "example_uz": "Bu so'z \"yerosti; yer ostida joylashgan\" degani."
+  },
+  {
+    "id": 605,
+    "category": "ielts",
+    "english": "Utilise",
+    "uzbek": "foydalanmoq; ishga solmoq",
+    "example_en": "This word is often used in IELTS: Utilise.",
+    "example_uz": "Bu so'z \"foydalanmoq; ishga solmoq\" degani."
+  },
+  {
+    "id": 606,
+    "category": "ielts",
+    "english": "Vent",
+    "uzbek": "tuynuk; shamollatish teshigi",
+    "example_en": "This word is often used in IELTS: Vent.",
+    "example_uz": "Bu so'z \"tuynuk; shamollatish teshigi\" degani."
+  },
+  {
+    "id": 607,
+    "category": "ielts",
+    "english": "Aviation",
+    "uzbek": "aviatsiya; havo uchish sohasi",
+    "example_en": "This word is often used in IELTS: Aviation.",
+    "example_uz": "Bu so'z \"aviatsiya; havo uchish sohasi\" degani."
+  },
+  {
+    "id": 608,
+    "category": "ielts",
+    "english": "Blade",
+    "uzbek": "pichoq tig'i; parrak tig'i",
+    "example_en": "This word is often used in IELTS: Blade.",
+    "example_uz": "Bu so'z \"pichoq tig'i; parrak tig'i\" degani."
+  },
+  {
+    "id": 609,
+    "category": "ielts",
+    "english": "Coarse",
+    "uzbek": "dag'al; qo'pol",
+    "example_en": "This word is often used in IELTS: Coarse.",
+    "example_uz": "Bu so'z \"dag'al; qo'pol\" degani."
+  },
+  {
+    "id": 610,
+    "category": "ielts",
+    "english": "Confer",
+    "uzbek": "maslahatlashmoq; muhokama qilmoq",
+    "example_en": "This word is often used in IELTS: Confer.",
+    "example_uz": "Bu so'z \"maslahatlashmoq; muhokama qilmoq\" degani."
+  },
+  {
+    "id": 611,
+    "category": "ielts",
+    "english": "Cruise",
+    "uzbek": "kruiz; dengiz sayohati",
+    "example_en": "This word is often used in IELTS: Cruise.",
+    "example_uz": "Bu so'z \"kruiz; dengiz sayohati\" degani."
+  },
+  {
+    "id": 612,
+    "category": "ielts",
+    "english": "Curiosity",
+    "uzbek": "qiziquvchanlik; qiziqish",
+    "example_en": "This word is often used in IELTS: Curiosity.",
+    "example_uz": "Bu so'z \"qiziquvchanlik; qiziqish\" degani."
+  },
+  {
+    "id": 613,
+    "category": "ielts",
+    "english": "Design",
+    "uzbek": "dizayn; bezash loyihasi",
+    "example_en": "This word is often used in IELTS: Design.",
+    "example_uz": "Bu so'z \"dizayn; bezash loyihasi\" degani."
+  },
+  {
+    "id": 614,
+    "category": "ielts",
+    "english": "Enthusiast",
+    "uzbek": "ishtiyoqmand; qiziqib ishlaydigan odam",
+    "example_en": "This word is often used in IELTS: Enthusiast.",
+    "example_uz": "Bu so'z \"ishtiyoqmand; qiziqib ishlaydigan odam\" degani."
+  },
+  {
+    "id": 615,
+    "category": "ielts",
+    "english": "Handle",
+    "uzbek": "uddalamoq; boshqara bilmoq",
+    "example_en": "This word is often used in IELTS: Handle.",
+    "example_uz": "Bu so'z \"uddalamoq; boshqara bilmoq\" degani."
+  },
+  {
+    "id": 616,
+    "category": "ielts",
+    "english": "Inflexibility",
+    "uzbek": "moslashmaslik; qattiqlik",
+    "example_en": "This word is often used in IELTS: Inflexibility.",
+    "example_uz": "Bu so'z \"moslashmaslik; qattiqlik\" degani."
+  },
+  {
+    "id": 617,
+    "category": "ielts",
+    "english": "Isolation",
+    "uzbek": "izolyatsiya; ajratib qo'yish",
+    "example_en": "This word is often used in IELTS: Isolation.",
+    "example_uz": "Bu so'z \"izolyatsiya; ajratib qo'yish\" degani."
+  },
+  {
+    "id": 618,
+    "category": "ielts",
+    "english": "Voltage",
+    "uzbek": "kuchlanish (elektr)",
+    "example_en": "This word is often used in IELTS: Voltage.",
+    "example_uz": "Bu so'z \"kuchlanish (elektr)\" degani."
+  },
+  {
+    "id": 619,
+    "category": "ielts",
+    "english": "Prolonged",
+    "uzbek": "cho'zilgan; uzoq davom etadigan",
+    "example_en": "This word is often used in IELTS: Prolonged.",
+    "example_uz": "Bu so'z \"cho'zilgan; uzoq davom etadigan\" degani."
+  },
+  {
+    "id": 620,
+    "category": "ielts",
+    "english": "Propeller",
+    "uzbek": "parrak; harakatlantirgich",
+    "example_en": "This word is often used in IELTS: Propeller.",
+    "example_uz": "Bu so'z \"parrak; harakatlantirgich\" degani."
+  },
+  {
+    "id": 621,
+    "category": "ielts",
+    "english": "Reliably",
+    "uzbek": "ishonchli tarzda",
+    "example_en": "This word is often used in IELTS: Reliably.",
+    "example_uz": "Bu so'z \"ishonchli tarzda\" degani."
+  },
+  {
+    "id": 622,
+    "category": "ielts",
+    "english": "Revolutionise",
+    "uzbek": "inqilobiy o'moq",
+    "example_en": "This word is often used in IELTS: Revolutionise.",
+    "example_uz": "Bu so'z \"inqilobiy o'moq\" degani."
+  },
+  {
+    "id": 623,
+    "category": "ielts",
+    "english": "Rotation",
+    "uzbek": "aylanish; rotatsiya",
+    "example_en": "This word is often used in IELTS: Rotation.",
+    "example_uz": "Bu so'z \"aylanish; rotatsiya\" degani."
+  },
+  {
+    "id": 624,
+    "category": "ielts",
+    "english": "Sustained",
+    "uzbek": "uzluksiz; barqaror davom etuvchi",
+    "example_en": "This word is often used in IELTS: Sustained.",
+    "example_uz": "Bu so'z \"uzluksiz; barqaror davom etuvchi\" degani."
+  },
+  {
+    "id": 625,
+    "category": "ielts",
+    "english": "Turbulence",
+    "uzbek": "kuchli tebranish; beqaror oqim",
+    "example_en": "This word is often used in IELTS: Turbulence.",
+    "example_uz": "Bu so'z \"kuchli tebranish; beqaror oqim\" degani."
+  },
+  {
+    "id": 626,
+    "category": "ielts",
+    "english": "Variable",
+    "uzbek": "o'zgaruvchan",
+    "example_en": "This word is often used in IELTS: Variable.",
+    "example_uz": "Bu so'z \"o'zgaruvchan\" degani."
+  },
+  {
+    "id": 627,
+    "category": "ielts",
+    "english": "Cable",
+    "uzbek": "kabel; tros; arqon",
+    "example_en": "This word is often used in IELTS: Cable.",
+    "example_uz": "Bu so'z \"kabel; tros; arqon\" degani."
+  },
+  {
+    "id": 628,
+    "category": "ielts",
+    "english": "Catastrophic",
+    "uzbek": "fojeali; halokatli",
+    "example_en": "This word is often used in IELTS: Catastrophic.",
+    "example_uz": "Bu so'z \"fojeali; halokatli\" degani."
+  },
+  {
+    "id": 629,
+    "category": "ielts",
+    "english": "Compensate",
+    "uzbek": "o'rnini qoplamoq; kompensatsiya qilmoq",
+    "example_en": "This word is often used in IELTS: Compensate.",
+    "example_uz": "Bu so'z \"o'rnini qoplamoq; kompensatsiya qilmoq\" degani."
+  },
+  {
+    "id": 630,
+    "category": "ielts",
+    "english": "Disparate",
+    "uzbek": "tubdan farq qiladigan; o'xshamaydigan",
+    "example_en": "This word is often used in IELTS: Disparate.",
+    "example_uz": "Bu so'z \"tubdan farq qiladigan; o'xshamaydigan\" degani."
+  },
+  {
+    "id": 631,
+    "category": "ielts",
+    "english": "Flaw",
+    "uzbek": "nuqson; kamchilik",
+    "example_en": "This word is often used in IELTS: Flaw.",
+    "example_uz": "Bu so'z \"nuqson; kamchilik\" degani."
+  },
+  {
+    "id": 632,
+    "category": "ielts",
+    "english": "Indispensable",
+    "uzbek": "ajralmas; juda zarur",
+    "example_en": "This word is often used in IELTS: Indispensable.",
+    "example_uz": "Bu so'z \"ajralmas; juda zarur\" degani."
+  },
+  {
+    "id": 633,
+    "category": "ielts",
+    "english": "Inexplicably",
+    "uzbek": "tushuntirib bo'maydigan tarzda",
+    "example_en": "This word is often used in IELTS: Inexplicably.",
+    "example_uz": "Bu so'z \"tushuntirib bo'maydigan tarzda\" degani."
+  },
+  {
+    "id": 634,
+    "category": "ielts",
+    "english": "Inquiry",
+    "uzbek": "rasmiy so'rov; tekshiruv",
+    "example_en": "This word is often used in IELTS: Inquiry.",
+    "example_uz": "Bu so'z \"rasmiy so'rov; tekshiruv\" degani."
+  },
+  {
+    "id": 635,
+    "category": "ielts",
+    "english": "Insulation",
+    "uzbek": "izolyatsiya; o'rab ajratish",
+    "example_en": "This word is often used in IELTS: Insulation.",
+    "example_uz": "Bu so'z \"izolyatsiya; o'rab ajratish\" degani."
+  },
+  {
+    "id": 636,
+    "category": "ielts",
+    "english": "Perseverance",
+    "uzbek": "qat'iyat; sabot; oxirigacha borish",
+    "example_en": "This word is often used in IELTS: Perseverance.",
+    "example_uz": "Bu so'z \"qat'iyat; sabot; oxirigacha borish\" degani."
+  },
+  {
+    "id": 637,
+    "category": "ielts",
+    "english": "Rally",
+    "uzbek": "majlis; anjuman; miting",
+    "example_en": "This word is often used in IELTS: Rally.",
+    "example_uz": "Bu so'z \"majlis; anjuman; miting\" degani."
+  },
+  {
+    "id": 638,
+    "category": "ielts",
+    "english": "Requisite",
+    "uzbek": "zarur; talab qilinadigan",
+    "example_en": "This word is often used in IELTS: Requisite.",
+    "example_uz": "Bu so'z \"zarur; talab qilinadigan\" degani."
+  },
+  {
+    "id": 639,
+    "category": "ielts",
+    "english": "Set out",
+    "uzbek": "ishni boshlamoq; yo'moq; kirishmoq",
+    "example_en": "This word is often used in IELTS: Set out.",
+    "example_uz": "Bu so'z \"ishni boshlamoq; yo'moq; kirishmoq\" degani."
+  },
+  {
+    "id": 640,
+    "category": "ielts",
+    "english": "Snap",
+    "uzbek": "qarsillatib yopmoq; 'shaq' etmoq",
+    "example_en": "This word is often used in IELTS: Snap.",
+    "example_uz": "Bu so'z \"qarsillatib yopmoq; 'shaq' etmoq\" degani."
+  },
+  {
+    "id": 641,
+    "category": "ielts",
+    "english": "Tow",
+    "uzbek": "shatakka olmoq; tortib olib ketmoq",
+    "example_en": "This word is often used in IELTS: Tow.",
+    "example_uz": "Bu so'z \"shatakka olmoq; tortib olib ketmoq\" degani."
+  },
+  {
+    "id": 642,
+    "category": "ielts",
+    "english": "Transmit",
+    "uzbek": "uzatmoq; jo'moq",
+    "example_en": "This word is often used in IELTS: Transmit.",
+    "example_uz": "Bu so'z \"uzatmoq; jo'moq\" degani."
+  },
+  {
+    "id": 643,
+    "category": "ielts",
+    "english": "Triumph",
+    "uzbek": "g'alaba; katta muvaffaqiyat",
+    "example_en": "This word is often used in IELTS: Triumph.",
+    "example_uz": "Bu so'z \"g'alaba; katta muvaffaqiyat\" degani."
+  },
+  {
+    "id": 644,
+    "category": "ielts",
+    "english": "Utterly",
+    "uzbek": "butkul; juda ham",
+    "example_en": "This word is often used in IELTS: Utterly.",
+    "example_uz": "Bu so'z \"butkul; juda ham\" degani."
+  },
+  {
+    "id": 645,
+    "category": "ielts",
+    "english": "Vilify",
+    "uzbek": "yomonlab gapirmoq; obro'sini to'kmoq",
+    "example_en": "This word is often used in IELTS: Vilify.",
+    "example_uz": "Bu so'z \"yomonlab gapirmoq; obro'sini to'kmoq\" degani."
   }
 ]
-
