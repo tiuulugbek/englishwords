@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "category": "work",
+    "english": "schedule",
+    "uzbek": "jadval",
+    "example_en": "I will send you the schedule.",
+    "example_uz": "Men sizga jadvalni yuboraman."
+  },
+  {
+    "id": 2,
+    "category": "family",
+    "english": "mother",
+    "uzbek": "ona",
+    "example_en": "My mother lives in Tashkent.",
+    "example_uz": "Onam Toshkentda yashaydi."
+  },
+  {
+    "id": 3,
+    "category": "family",
+    "english": "father",
+    "uzbek": "ota",
+    "example_en": "My father is a doctor.",
+    "example_uz": "Otam shifokor."
+  },
+  {
+    "id": 4,
+    "category": "work",
+    "english": "meeting",
+    "uzbek": "yig'ilish",
+    "example_en": "We have a meeting at 3 PM.",
+    "example_uz": "Bizda soat 15:00 da yig'ilish bor."
+  },
+  {
+    "id": 5,
+    "category": "food",
+    "english": "bread",
+    "uzbek": "non",
+    "example_en": "Please buy some bread.",
+    "example_uz": "Iltimos, non sotib oling."
+  },
+  {
+    "id": 6,
+    "category": "food",
+    "english": "water",
+    "uzbek": "suv",
+    "example_en": "Can I have a glass of water?",
+    "example_uz": "Bir stakan suv olishim mumkinmi?"
+  },
+  {
+    "id": 7,
+    "category": "work",
+    "english": "project",
+    "uzbek": "loyiha",
+    "example_en": "This project is very important.",
+    "example_uz": "Bu loyiha juda muhim."
+  },
+  {
+    "id": 8,
+    "category": "family",
+    "english": "sister",
+    "uzbek": "opa",
+    "example_en": "My sister works in a bank.",
+    "example_uz": "Opam bankda ishlaydi."
+  },
+  {
+    "id": 9,
+    "category": "time",
+    "english": "morning",
+    "uzbek": "ertalab",
+    "example_en": "Good morning!",
+    "example_uz": "Xayrli tong!"
+  },
+  {
+    "id": 10,
+    "category": "time",
+    "english": "evening",
+    "uzbek": "kechqurun",
+    "example_en": "See you this evening.",
+    "example_uz": "Kechqurun ko'rishamiz."
+  }
+]
+

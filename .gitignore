@@ -1,0 +1,44 @@
+# Node
+node_modules/
+*/node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+
+# Env files
+.env
+.env.local
+.env.*.local
+.env.production
+backend/.env
+bot/.env
+web/.env
+
+# Build / dist
+dist/
+build/
+web/dist/
+backend/dist/
+bot/dist/
+
+# Docker logs
+*.log
+
+# OS / editor
+.DS_Store
+.idea
+.vscode
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+
+# Docker
+docker-compose.override.yml
+
+# Prisma migrations (keep schema, ignore migrations folder)
+backend/prisma/migrations/

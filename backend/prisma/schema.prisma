@@ -1,0 +1,94 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           Int       @id @default(autoincrement())
+  telegramId   BigInt    @unique @map("telegram_id")
+  username     String?   @map("username")
+  fullName     String?   @map("full_name")
+  lang         String    @default("uz") @map("lang")
+  createdAt    DateTime  @default(now()) @map("created_at")
+  lastSeenAt   DateTime  @default(now()) @updatedAt @map("last_seen_at")
+  settings     UserSettings?
+  userWords    UserWord[]
+  tests        Test[]
+  dailyStats   DailyStat[]
+
+  @@map("users")
+}
+
+model UserSettings {
+  id                 Int     @id @default(autoincrement())
+  userId             Int     @unique @map("user_id")
+  preferredCategory  String? @map("preferred_category")
+  direction          String  @default("mixed") @map("direction")
+  dailyWords         Int     @default(10) @map("daily_words")
+  user               User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("user_settings")
+}
+
+model UserWord {
+  id            Int      @id @default(autoincrement())
+  userId        Int      @map("user_id")
+  wordId        Int      @map("word_id")
+  lastSeenAt    DateTime @default(now()) @map("last_seen_at")
+  successCount  Int      @default(0) @map("success_count")
+  failCount     Int      @default(0) @map("fail_count")
+  nextReviewAt  DateTime @default(now()) @map("next_review_at")
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, wordId])
+  @@map("user_words")
+}
+
+model Test {
+  id              Int           @id @default(autoincrement())
+  userId          Int           @map("user_id")
+  type            String        @map("type")
+  startedAt       DateTime      @default(now()) @map("started_at")
+  finishedAt      DateTime?     @map("finished_at")
+  totalQuestions  Int           @default(0) @map("total_questions")
+  correctAnswers  Int           @default(0) @map("correct_answers")
+  percent         Float?        @map("percent")
+  score           Int           @default(0) @map("score")
+  user            User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questions       TestQuestion[]
+
+  @@map("tests")
+}
+
+model TestQuestion {
+  id           Int      @id @default(autoincrement())
+  testId       Int      @map("test_id")
+  wordId       Int      @map("word_id")
+  questionType String   @map("question_type")
+  userAnswer   String?  @map("user_answer")
+  isCorrect    Boolean? @map("is_correct")
+  askedAt      DateTime @default(now()) @map("asked_at")
+  test         Test     @relation(fields: [testId], references: [id], onDelete: Cascade)
+
+  @@map("test_questions")
+}
+
+model DailyStat {
+  id              Int      @id @default(autoincrement())
+  userId          Int      @map("user_id")
+  statDate        DateTime @map("stat_date") @db.Date
+  learnedWords    Int      @default(0) @map("learned_words")
+  testsPassed     Int      @default(0) @map("tests_passed")
+  correctAnswers  Int      @default(0) @map("correct_answers")
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, statDate])
+  @@map("daily_stats")
+}
